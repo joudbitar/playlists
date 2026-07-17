@@ -1,16 +1,16 @@
 # Stuff I Like
 
-> The personal rotation. House-leaning, Arabic accents.
+> No crowd to read here, just what I actually put on for myself — house-leaning, with Arabic slipping in at the edges.
 
-**27 tracks · curated set order** · [JSON](../data/stuff-i-like.json)
+[JSON](../data/stuff-i-like.json)
 
-| # | Track | Artist | Year | |
-|--:|-------|--------|:----:|--|
+| # | Track | Artist | BPM | |
+|--:|-------|--------|:---:|--|
 | 1 | Music Sounds Better With You (Radio Edit) | Stardust | — | [YouTube](https://www.youtube.com/results?search_query=Stardust+Music+Sounds+Better+With+You+%28Radio+Edit%29) · [Spotify](https://open.spotify.com/search/Stardust%20Music%20Sounds%20Better%20With%20You%20%28Radio%20Edit%29) · [Apple](https://music.apple.com/us/search?term=Stardust+Music+Sounds+Better+With+You+%28Radio+Edit%29) |
 | 2 | Move | Adam Port & Stryv feat. Keinemusik, Orso & Malachiii | — | [YouTube](https://www.youtube.com/results?search_query=Adam+Port+%26+Stryv+feat.+Keinemusik%2C+Orso+%26+Malachiii+Move) · [Spotify](https://open.spotify.com/search/Adam%20Port%20%26%20Stryv%20feat.%20Keinemusik%2C%20Orso%20%26%20Malachiii%20Move) · [Apple](https://music.apple.com/us/search?term=Adam+Port+%26+Stryv+feat.+Keinemusik%2C+Orso+%26+Malachiii+Move) |
-| 3 | Alabina | Alabina | 1996 | [YouTube](https://www.youtube.com/results?search_query=Alabina+Alabina) · [Spotify](https://open.spotify.com/search/Alabina%20Alabina) · [Apple](https://music.apple.com/us/search?term=Alabina+Alabina) |
+| 3 | Alabina | Alabina | — | [YouTube](https://www.youtube.com/results?search_query=Alabina+Alabina) · [Spotify](https://open.spotify.com/search/Alabina%20Alabina) · [Apple](https://music.apple.com/us/search?term=Alabina+Alabina) |
 | 4 | Allah Allah Ya Baba | — | — | [YouTube](https://www.youtube.com/results?search_query=Allah+Allah+Ya+Baba) · [Spotify](https://open.spotify.com/search/Allah%20Allah%20Ya%20Baba) · [Apple](https://music.apple.com/us/search?term=Allah+Allah+Ya+Baba) |
-| 5 | World, Hold On (FISHER Rework) | Bob Sinclar | 2024 | [YouTube](https://www.youtube.com/results?search_query=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) · [Spotify](https://open.spotify.com/search/Bob%20Sinclar%20World%2C%20Hold%20On%20%28FISHER%20Rework%29) · [Apple](https://music.apple.com/us/search?term=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) |
+| 5 | World, Hold On (FISHER Rework) | Bob Sinclar | — | [YouTube](https://www.youtube.com/results?search_query=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) · [Spotify](https://open.spotify.com/search/Bob%20Sinclar%20World%2C%20Hold%20On%20%28FISHER%20Rework%29) · [Apple](https://music.apple.com/us/search?term=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) |
 | 6 | Allom | Cheb Bakr | — | [YouTube](https://www.youtube.com/results?search_query=Cheb+Bakr+Allom) · [Spotify](https://open.spotify.com/search/Cheb%20Bakr%20Allom) · [Apple](https://music.apple.com/us/search?term=Cheb+Bakr+Allom) |
 | 7 | Fresh (Poolside Edit) | Crazibiza | — | [YouTube](https://www.youtube.com/results?search_query=Crazibiza+Fresh+%28Poolside+Edit%29) · [Spotify](https://open.spotify.com/search/Crazibiza%20Fresh%20%28Poolside%20Edit%29) · [Apple](https://music.apple.com/us/search?term=Crazibiza+Fresh+%28Poolside+Edit%29) |
 | 8 | Erhal Keef Alsham | — | — | [YouTube](https://www.youtube.com/results?search_query=Erhal+Keef+Alsham) · [Spotify](https://open.spotify.com/search/Erhal%20Keef%20Alsham) · [Apple](https://music.apple.com/us/search?term=Erhal+Keef+Alsham) |

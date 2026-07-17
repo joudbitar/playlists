@@ -9,17 +9,17 @@ SRC = Path(sys.argv[1])   # dir with <slug>.json + index.json
 REPO = Path(sys.argv[2])  # repo root to write into
 
 BLURBS = {
-    "70s-party": "ABBA, Queen, Bowie, MJ, Bee Gees, Blondie — a full 70s night in order.",
-    "y2k-party": "Eminem to Hannah Montana. Low-rise jeans energy.",
-    "arab-house": "Arabic vocals over house grooves — the crossover set.",
-    "gay-club-anthems": "Certified dancefloor liberation. No skips allowed.",
-    "diwali-after": "The afterparty set — Bollywood and Punjabi bangers.",
-    "general-pop": "The crowd-pleaser set (played as \"Festival of Nations\") — disco to Tyler to Fred again.",
-    "south-asian": "Desi party pool, wedding-tier energy.",
-    "dnb-garage": "UK rollers — drum & bass and garage cuts.",
-    "stuff-i-like": "The personal rotation. House-leaning, Arabic accents.",
-    "lvl": "Reggaeton and Latin heat — Bad Bunny-forward.",
-    "reda": "Deep, rolling minimal house — a set built for a friend.",
+    "70s-party": "A whole 70s night played in order so it actually builds — disco into glam into the big singalong ballads. By the last track the room is shouting every word.",
+    "y2k-party": "The 2000s the way they actually sounded on the radio and on Disney Channel — rap sitting right next to bubblegum pop, no shame. Low-rise-jeans energy.",
+    "arab-house": "Arabic vocals over house grooves. My crossover set, and the one that catches people off guard.",
+    "gay-club-anthems": "Straight-up dancefloor. Nothing here is a skip — this is the set for when the room just wants to let go.",
+    "diwali-after": "The afterparty set, for once the main room's done — Bollywood hooks and Punjabi bangers, loud and sweaty.",
+    "general-pop": "My most all-over-the-place set (I played it once as \"Festival of Nations\") — disco to Tyler to Fred again, and it somehow holds a mixed crowd. My safe bet.",
+    "south-asian": "Desi party fuel — full wedding-reception energy, the floor packed with everyone from cousins to aunties.",
+    "dnb-garage": "Fast UK stuff — drum & bass and garage rollers. Short set, no mercy.",
+    "stuff-i-like": "No crowd to read here, just what I actually put on for myself — house-leaning, with Arabic slipping in at the edges.",
+    "lvl": "Reggaeton and Latin heat, heavy on Bad Bunny. Hips-first.",
+    "reda": "Deep, rolling minimal house. I built it for a friend, Reda, and it turned into its own set.",
 }
 
 
@@ -49,23 +49,18 @@ def playlist_md(pl):
     if blurb:
         lines += [f"> {blurb}", ""]
     has_dur = pl["total_duration_sec"] > 0
-    order = "curated set order" if pl["source"] == "m3u" else "A–Z pool"
-    stats = [f"{pl['track_count']} tracks"]
-    if has_dur:
-        stats.append(fmt_dur(pl["total_duration_sec"]))
-    stats.append(order)
-    lines += [f"**{' · '.join(stats)}** · [JSON](../data/{pl['slug']}.json)", ""]
+    lines += [f"[JSON](../data/{pl['slug']}.json)", ""]
     dur_h = " Length |" if has_dur else ""
     dur_s = ":------:|" if has_dur else ""
-    lines += [f"| # | Track | Artist | Year |{dur_h} |",
-              f"|--:|-------|--------|:----:|{dur_s}--|"]
+    lines += [f"| # | Track | Artist | BPM |{dur_h} |",
+              f"|--:|-------|--------|:---:|{dur_s}--|"]
     for i, t in enumerate(pl["tracks"], 1):
         title = esc(t["title"]) or esc(t["source_file"])
         artist = esc(t["artist"]) or "—"
-        year = t["year"] or "—"
+        bpm = t.get("bpm") or "—"
         link = track_links(t["artist"], t["title"])
         dur_c = f" {fmt_dur(t['duration_sec'])} |" if has_dur else ""
-        lines.append(f"| {i} | {title} | {artist} | {year} |{dur_c} {link} |")
+        lines.append(f"| {i} | {title} | {artist} | {bpm} |{dur_c} {link} |")
     lines.append("")
     return "\n".join(lines)
 
