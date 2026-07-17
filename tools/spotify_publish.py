@@ -7,12 +7,17 @@ Usage: python3 tools/spotify_publish.py [slug ...]   (no args = all)
 """
 import base64
 import json
+import ssl
 import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+
+# python.org builds lack root certs; fall back to the macOS system bundle
+_cafile = "/etc/ssl/cert.pem" if Path("/etc/ssl/cert.pem").exists() else None
+SSL_CTX = ssl.create_default_context(cafile=_cafile)
 
 ROOT = Path(__file__).parent.parent
 SECRETS = json.loads((ROOT / ".secrets.json").read_text())
@@ -30,7 +35,9 @@ def refresh_access_token():
             "refresh_token": SECRETS["refresh_token"]}).encode(),
         headers={"Authorization": f"Basic {basic}",
                  "Content-Type": "application/x-www-form-urlencoded"})
-    return json.loads(urllib.request.urlopen(req).read())["access_token"]
+    return json.loads(
+        urllib.request.urlopen(
+            req, context=SSL_CTX, timeout=30).read())["access_token"]
 
 
 TOKEN = None
@@ -45,17 +52,27 @@ def call(method, path, body=None, params=None, retries=3):
                  "Content-Type": "application/json"})
     for attempt in range(retries):
         try:
-            with urllib.request.urlopen(req) as r:
+            with urllib.request.urlopen(req, context=SSL_CTX, timeout=30) as r:
                 data = r.read()
                 return json.loads(data) if data else {}
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                time.sleep(int(e.headers.get("Retry-After", "2")) + 1)
+                # cap Retry-After: Spotify can return minutes-long values that
+                # would silently freeze the whole run
+                wait = min(int(e.headers.get("Retry-After", "2")) + 1, 20)
+                print(f"   [rate-limited, waiting {wait}s]", flush=True)
+                time.sleep(wait)
                 continue
             if e.code >= 500 and attempt < retries - 1:
                 time.sleep(2)
                 continue
             raise
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            # network stall / timeout — retry rather than hang forever
+            if attempt < retries - 1:
+                time.sleep(2)
+                continue
+            raise RuntimeError(f"network error on {method} {path}: {e}")
     raise RuntimeError(f"gave up on {method} {path}")
 
 
@@ -69,7 +86,14 @@ def find_track(artist, title):
     for q in queries:
         if not q.strip():
             continue
-        res = call("GET", "/search", params={"q": q, "type": "track", "limit": 1})
+        try:
+            res = call("GET", "/search",
+                       params={"q": q, "type": "track", "limit": 1})
+        except RuntimeError as e:
+            # persistent rate-limit / network fail on this query — count as a
+            # miss instead of crashing the whole run
+            print(f"   [search failed: {e}]", flush=True)
+            return None, None
         items = res.get("tracks", {}).get("items", [])
         if items:
             t = items[0]
@@ -94,6 +118,17 @@ def main():
         if only and pl["slug"] not in only:
             continue
 
+        # skip playlists already populated on Spotify (resume across runs)
+        entry = mapping.get(pl["slug"])
+        if entry:
+            existing = call("GET", f"/playlists/{entry['id']}/items",
+                            params={"limit": 1}).get("total", 0)
+            if existing > 0:
+                print(f"{pl['slug']}: already filled ({existing} items), skip "
+                      f"-> {entry['url']}", flush=True)
+                continue
+
+        print(f"{pl['slug']}: searching {pl['track_count']} tracks…", flush=True)
         uris, misses = [], []
         for t in pl["tracks"]:
             uri, label = find_track(t["artist"], t["title"])
@@ -103,26 +138,27 @@ def main():
                 misses.append(f"{t['artist'] or '?'} — {t['title']}")
             time.sleep(0.1)
 
-        entry = mapping.get(pl["slug"])
         if entry:
             pid = entry["id"]
         else:
-            created = call("POST", f"/users/{me['id']}/playlists", body={
+            # /users/{id}/playlists 403s on new dev-mode apps; /me/playlists works
+            created = call("POST", "/me/playlists", body={
                 "name": pl["name"], "public": True,
                 "description": "Open-sourced at github.com/joudbitar/playlists"})
             pid = created["id"]
             mapping[pl["slug"]] = {"id": pid,
                                    "url": created["external_urls"]["spotify"]}
+            MAP_FILE.write_text(json.dumps(mapping, indent=2) + "\n")
 
-        call("PUT", f"/playlists/{pid}/tracks", body={"uris": uris[:100]})
+        # /tracks was removed in Spotify's March 2026 migration; use /items
+        call("PUT", f"/playlists/{pid}/items", body={"uris": uris[:100]})
         for i in range(100, len(uris), 100):
-            call("POST", f"/playlists/{pid}/tracks", body={"uris": uris[i:i+100]})
+            call("POST", f"/playlists/{pid}/items", body={"uris": uris[i:i+100]})
 
-        MAP_FILE.write_text(json.dumps(mapping, indent=2) + "\n")
         print(f"{pl['slug']}: {len(uris)}/{pl['track_count']} matched -> "
-              f"{mapping[pl['slug']]['url']}")
+              f"{mapping[pl['slug']]['url']}", flush=True)
         for m in misses:
-            print(f"   miss: {m}")
+            print(f"   miss: {m}", flush=True)
 
 
 if __name__ == "__main__":

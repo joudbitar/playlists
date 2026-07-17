@@ -6,6 +6,7 @@ import base64
 import http.server
 import json
 import secrets as pysecrets
+import ssl
 import sys
 import threading
 import urllib.parse
@@ -13,9 +14,13 @@ import urllib.request
 import webbrowser
 from pathlib import Path
 
+# python.org builds lack root certs; fall back to the macOS system bundle
+_cafile = "/etc/ssl/cert.pem" if Path("/etc/ssl/cert.pem").exists() else None
+SSL_CTX = ssl.create_default_context(cafile=_cafile)
+
 SECRETS = Path(__file__).parent.parent / ".secrets.json"
 REDIRECT = "http://127.0.0.1:8888/callback"
-SCOPES = "playlist-modify-public playlist-modify-private"
+SCOPES = "playlist-modify-public playlist-modify-private playlist-read-private"
 
 creds = json.loads(SECRETS.read_text())
 if not creds.get("client_id") or not creds.get("client_secret"):
@@ -67,7 +72,7 @@ req = urllib.request.Request(
         "redirect_uri": REDIRECT}).encode(),
     headers={"Authorization": f"Basic {basic}",
              "Content-Type": "application/x-www-form-urlencoded"})
-tok = json.loads(urllib.request.urlopen(req).read())
+tok = json.loads(urllib.request.urlopen(req, context=SSL_CTX).read())
 creds["refresh_token"] = tok["refresh_token"]
 SECRETS.write_text(json.dumps(creds, indent=2) + "\n")
 print("Refresh token saved to .secrets.json — auth done.")
