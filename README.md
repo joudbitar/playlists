@@ -1,14 +1,11 @@
 # playlists
 
-My playlists as open data — every set I've built and DJ'd, published as
-clean track lists instead of rotting in a folder of `.m3u` files.
+This is a collection of all the DJ sets I've performed. I decided to
+open source them in case anyone wants to listen to them or to perform
+them.
 
-**11 playlists · 566 tracks.**
-
-Each playlist is a human-readable page in [`playlists/`](playlists/) and a
-machine-readable JSON file in [`data/`](data/). Party sets keep their
-curated play order. No audio lives here — just the recipes, with a
-YouTube search link per track so any of them is one click from playable.
+**11 playlists · 566 tracks.** Every track links
+to YouTube, Spotify and Apple Music.
 
 | Playlist | Tracks | Vibe |
 |----------|-------:|------|
@@ -23,39 +20,3 @@ YouTube search link per track so any of them is one click from playable.
 | [DnB / Garage](playlists/dnb-garage.md) | 13 | UK rollers — drum & bass and garage cuts. |
 | [LVL](playlists/lvl.md) | 35 | Reggaeton and Latin heat — Bad Bunny-forward. |
 | [Reda](playlists/reda.md) | 48 | Deep, rolling minimal house — a set built for a friend. |
-
-## Data format
-
-```json
-{
-  "slug": "70s-party",
-  "name": "70s Party",
-  "source": "m3u",
-  "track_count": 95,
-  "tracks": [
-    {
-      "artist": "ABBA",
-      "title": "Dancing Queen",
-      "year": "1976"
-    }
-  ]
-}
-```
-
-`source: m3u` means the track order is the curated set order;
-`source: folder` playlists are alphabetical pools. Some tracks in the
-deeper crates have `artist: null` — the filename didn't say and I
-didn't guess.
-
-## How it's built
-
-The pipeline lives in [`tools/`](tools/):
-
-1. `extract_playlists.py` reads the local `.m3u` files and playlist
-   folders, parses artist/title out of filenames (and audio tags via
-   `ffprobe` when the files are materialized locally — cloud placeholders
-   are skipped rather than force-downloaded), and applies
-   `overrides.json`, a hand-curated metadata file for tracks whose
-   filenames don't carry the artist.
-2. `build_repo.py` renders the markdown pages, the JSON data files,
-   and this README.

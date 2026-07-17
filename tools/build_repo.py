@@ -31,9 +31,12 @@ def fmt_dur(sec):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
-def yt_link(artist, title):
-    q = urllib.parse.quote_plus(" ".join(x for x in (artist, title) if x))
-    return f"https://www.youtube.com/results?search_query={q}"
+def track_links(artist, title):
+    q = " ".join(x for x in (artist, title) if x)
+    yt = "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(q)
+    sp = "https://open.spotify.com/search/" + urllib.parse.quote(q)
+    am = "https://music.apple.com/us/search?term=" + urllib.parse.quote_plus(q)
+    return f"[YouTube]({yt}) · [Spotify]({sp}) · [Apple]({am})"
 
 
 def esc(s):
@@ -60,7 +63,7 @@ def playlist_md(pl):
         title = esc(t["title"]) or esc(t["source_file"])
         artist = esc(t["artist"]) or "—"
         year = t["year"] or "—"
-        link = f"[listen]({yt_link(t['artist'], t['title'])})"
+        link = track_links(t["artist"], t["title"])
         dur_c = f" {fmt_dur(t['duration_sec'])} |" if has_dur else ""
         lines.append(f"| {i} | {title} | {artist} | {year} |{dur_c} {link} |")
     lines.append("")
@@ -91,39 +94,17 @@ def main():
     total_tracks = sum(p["track_count"] for p in playlists)
 
     md = ["# playlists", "",
-          "My playlists as open data — every set I've built and DJ'd, published as",
-          "clean track lists instead of rotting in a folder of `.m3u` files.", "",
-          f"**{len(playlists)} playlists · {total_tracks} tracks.**", "",
-          "Each playlist is a human-readable page in [`playlists/`](playlists/) and a",
-          "machine-readable JSON file in [`data/`](data/). Party sets keep their",
-          "curated play order. No audio lives here — just the recipes, with a",
-          "YouTube search link per track so any of them is one click from playable.", "",
+          "This is a collection of all the DJ sets I've performed. I decided to",
+          "open source them in case anyone wants to listen to them or to perform",
+          "them.", "",
+          f"**{len(playlists)} playlists · {total_tracks} tracks.** Every track links",
+          "to YouTube, Spotify and Apple Music.", "",
           "| Playlist | Tracks | Vibe |",
           "|----------|-------:|------|"]
     for p in playlists:
         blurb = BLURBS.get(p["slug"]) or ""
         md.append(f"| [{p['name']}](playlists/{p['slug']}.md) | {p['track_count']} | {blurb} |")
-    md += ["",
-           "## Data format", "",
-           "```json", json.dumps({
-               "slug": "70s-party", "name": "70s Party", "source": "m3u",
-               "track_count": 95,
-               "tracks": [{"artist": "ABBA", "title": "Dancing Queen",
-                           "year": "1976"}]}, indent=2), "```", "",
-           "`source: m3u` means the track order is the curated set order;",
-           "`source: folder` playlists are alphabetical pools. Some tracks in the",
-           "deeper crates have `artist: null` — the filename didn't say and I",
-           "didn't guess.", "",
-           "## How it's built", "",
-           "The pipeline lives in [`tools/`](tools/):", "",
-           "1. `extract_playlists.py` reads the local `.m3u` files and playlist",
-           "   folders, parses artist/title out of filenames (and audio tags via",
-           "   `ffprobe` when the files are materialized locally — cloud placeholders",
-           "   are skipped rather than force-downloaded), and applies",
-           "   `overrides.json`, a hand-curated metadata file for tracks whose",
-           "   filenames don't carry the artist.",
-           "2. `build_repo.py` renders the markdown pages, the JSON data files,",
-           "   and this README.", ""]
+    md.append("")
     (REPO / "README.md").write_text("\n".join(md))
     print(f"Repo built at {REPO}: {len(playlists)} playlists, {total_tracks} tracks")
 

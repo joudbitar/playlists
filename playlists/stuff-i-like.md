@@ -6,30 +6,30 @@
 
 | # | Track | Artist | Year | |
 |--:|-------|--------|:----:|--|
-| 1 | Music Sounds Better With You (Radio Edit) | Stardust | — | [listen](https://www.youtube.com/results?search_query=Stardust+Music+Sounds+Better+With+You+%28Radio+Edit%29) |
-| 2 | Move | Adam Port & Stryv feat. Keinemusik, Orso & Malachiii | — | [listen](https://www.youtube.com/results?search_query=Adam+Port+%26+Stryv+feat.+Keinemusik%2C+Orso+%26+Malachiii+Move) |
-| 3 | Alabina | Alabina | 1996 | [listen](https://www.youtube.com/results?search_query=Alabina+Alabina) |
-| 4 | Allah Allah Ya Baba | — | — | [listen](https://www.youtube.com/results?search_query=Allah+Allah+Ya+Baba) |
-| 5 | World, Hold On (FISHER Rework) | Bob Sinclar | 2024 | [listen](https://www.youtube.com/results?search_query=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) |
-| 6 | Allom | Cheb Bakr | — | [listen](https://www.youtube.com/results?search_query=Cheb+Bakr+Allom) |
-| 7 | Fresh (Poolside Edit) | Crazibiza | — | [listen](https://www.youtube.com/results?search_query=Crazibiza+Fresh+%28Poolside+Edit%29) |
-| 8 | Erhal Keef Alsham | — | — | [listen](https://www.youtube.com/results?search_query=Erhal+Keef+Alsham) |
-| 9 | Everything You Have Done Meduza Edit | — | — | [listen](https://www.youtube.com/results?search_query=Everything+You+Have+Done+Meduza+Edit) |
-| 10 | Got It Back Mix Cut | — | — | [listen](https://www.youtube.com/results?search_query=Got+It+Back+Mix+Cut) |
-| 11 | I Can't Take No More Extended Mix | — | — | [listen](https://www.youtube.com/results?search_query=I+Can%27t+Take+No+More+Extended+Mix) |
-| 12 | Irja | Hewaya | — | [listen](https://www.youtube.com/results?search_query=Hewaya+Irja) |
-| 13 | My Paradise (Extended Mix) | Jamie Jones | — | [listen](https://www.youtube.com/results?search_query=Jamie+Jones+My+Paradise+%28Extended+Mix%29) |
-| 14 | Jara | Ahmed Ben Ali | — | [listen](https://www.youtube.com/results?search_query=Ahmed+Ben+Ali+Jara) |
-| 15 | Jani Bigool | Khaled Al Melody | — | [listen](https://www.youtube.com/results?search_query=Khaled+Al+Melody+Jani+Bigool) |
-| 16 | Last Night a DJ Saved My Life (edit) | Indeep | — | [listen](https://www.youtube.com/results?search_query=Indeep+Last+Night+a+DJ+Saved+My+Life+%28edit%29) |
-| 17 | Lose My Head | — | — | [listen](https://www.youtube.com/results?search_query=Lose+My+Head) |
-| 18 | Angra | Manuel De La Mare | — | [listen](https://www.youtube.com/results?search_query=Manuel+De+La+Mare+Angra) |
-| 19 | Merther | Mau P | — | [listen](https://www.youtube.com/results?search_query=Mau+P+Merther) |
-| 20 | Deep in the Bottom of Africa | Monique Bingham | — | [listen](https://www.youtube.com/results?search_query=Monique+Bingham+Deep+in+the+Bottom+of+Africa) |
-| 21 | Raw Tony Romera Remix | — | — | [listen](https://www.youtube.com/results?search_query=Raw+Tony+Romera+Remix) |
-| 22 | TAKA | Ahadadream | — | [listen](https://www.youtube.com/results?search_query=Ahadadream+TAKA) |
-| 23 | U Must Try Extended Mix | — | — | [listen](https://www.youtube.com/results?search_query=U+Must+Try+Extended+Mix) |
-| 24 | Shake It | Venga | — | [listen](https://www.youtube.com/results?search_query=Venga+Shake+It) |
-| 25 | Shaf | Ya Man Hawah | — | [listen](https://www.youtube.com/results?search_query=Ya+Man+Hawah+Shaf) |
-| 26 | The White Bird Band | Ya Ummi | — | [listen](https://www.youtube.com/results?search_query=Ya+Ummi+The+White+Bird+Band) |
-| 27 | nobody (make me feel) | oskar med k | — | [listen](https://www.youtube.com/results?search_query=oskar+med+k+nobody+%28make+me+feel%29) |
+| 1 | Music Sounds Better With You (Radio Edit) | Stardust | — | [YouTube](https://www.youtube.com/results?search_query=Stardust+Music+Sounds+Better+With+You+%28Radio+Edit%29) · [Spotify](https://open.spotify.com/search/Stardust%20Music%20Sounds%20Better%20With%20You%20%28Radio%20Edit%29) · [Apple](https://music.apple.com/us/search?term=Stardust+Music+Sounds+Better+With+You+%28Radio+Edit%29) |
+| 2 | Move | Adam Port & Stryv feat. Keinemusik, Orso & Malachiii | — | [YouTube](https://www.youtube.com/results?search_query=Adam+Port+%26+Stryv+feat.+Keinemusik%2C+Orso+%26+Malachiii+Move) · [Spotify](https://open.spotify.com/search/Adam%20Port%20%26%20Stryv%20feat.%20Keinemusik%2C%20Orso%20%26%20Malachiii%20Move) · [Apple](https://music.apple.com/us/search?term=Adam+Port+%26+Stryv+feat.+Keinemusik%2C+Orso+%26+Malachiii+Move) |
+| 3 | Alabina | Alabina | 1996 | [YouTube](https://www.youtube.com/results?search_query=Alabina+Alabina) · [Spotify](https://open.spotify.com/search/Alabina%20Alabina) · [Apple](https://music.apple.com/us/search?term=Alabina+Alabina) |
+| 4 | Allah Allah Ya Baba | — | — | [YouTube](https://www.youtube.com/results?search_query=Allah+Allah+Ya+Baba) · [Spotify](https://open.spotify.com/search/Allah%20Allah%20Ya%20Baba) · [Apple](https://music.apple.com/us/search?term=Allah+Allah+Ya+Baba) |
+| 5 | World, Hold On (FISHER Rework) | Bob Sinclar | 2024 | [YouTube](https://www.youtube.com/results?search_query=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) · [Spotify](https://open.spotify.com/search/Bob%20Sinclar%20World%2C%20Hold%20On%20%28FISHER%20Rework%29) · [Apple](https://music.apple.com/us/search?term=Bob+Sinclar+World%2C+Hold+On+%28FISHER+Rework%29) |
+| 6 | Allom | Cheb Bakr | — | [YouTube](https://www.youtube.com/results?search_query=Cheb+Bakr+Allom) · [Spotify](https://open.spotify.com/search/Cheb%20Bakr%20Allom) · [Apple](https://music.apple.com/us/search?term=Cheb+Bakr+Allom) |
+| 7 | Fresh (Poolside Edit) | Crazibiza | — | [YouTube](https://www.youtube.com/results?search_query=Crazibiza+Fresh+%28Poolside+Edit%29) · [Spotify](https://open.spotify.com/search/Crazibiza%20Fresh%20%28Poolside%20Edit%29) · [Apple](https://music.apple.com/us/search?term=Crazibiza+Fresh+%28Poolside+Edit%29) |
+| 8 | Erhal Keef Alsham | — | — | [YouTube](https://www.youtube.com/results?search_query=Erhal+Keef+Alsham) · [Spotify](https://open.spotify.com/search/Erhal%20Keef%20Alsham) · [Apple](https://music.apple.com/us/search?term=Erhal+Keef+Alsham) |
+| 9 | Everything You Have Done Meduza Edit | — | — | [YouTube](https://www.youtube.com/results?search_query=Everything+You+Have+Done+Meduza+Edit) · [Spotify](https://open.spotify.com/search/Everything%20You%20Have%20Done%20Meduza%20Edit) · [Apple](https://music.apple.com/us/search?term=Everything+You+Have+Done+Meduza+Edit) |
+| 10 | Got It Back Mix Cut | — | — | [YouTube](https://www.youtube.com/results?search_query=Got+It+Back+Mix+Cut) · [Spotify](https://open.spotify.com/search/Got%20It%20Back%20Mix%20Cut) · [Apple](https://music.apple.com/us/search?term=Got+It+Back+Mix+Cut) |
+| 11 | I Can't Take No More Extended Mix | — | — | [YouTube](https://www.youtube.com/results?search_query=I+Can%27t+Take+No+More+Extended+Mix) · [Spotify](https://open.spotify.com/search/I%20Can%27t%20Take%20No%20More%20Extended%20Mix) · [Apple](https://music.apple.com/us/search?term=I+Can%27t+Take+No+More+Extended+Mix) |
+| 12 | Irja | Hewaya | — | [YouTube](https://www.youtube.com/results?search_query=Hewaya+Irja) · [Spotify](https://open.spotify.com/search/Hewaya%20Irja) · [Apple](https://music.apple.com/us/search?term=Hewaya+Irja) |
+| 13 | My Paradise (Extended Mix) | Jamie Jones | — | [YouTube](https://www.youtube.com/results?search_query=Jamie+Jones+My+Paradise+%28Extended+Mix%29) · [Spotify](https://open.spotify.com/search/Jamie%20Jones%20My%20Paradise%20%28Extended%20Mix%29) · [Apple](https://music.apple.com/us/search?term=Jamie+Jones+My+Paradise+%28Extended+Mix%29) |
+| 14 | Jara | Ahmed Ben Ali | — | [YouTube](https://www.youtube.com/results?search_query=Ahmed+Ben+Ali+Jara) · [Spotify](https://open.spotify.com/search/Ahmed%20Ben%20Ali%20Jara) · [Apple](https://music.apple.com/us/search?term=Ahmed+Ben+Ali+Jara) |
+| 15 | Jani Bigool | Khaled Al Melody | — | [YouTube](https://www.youtube.com/results?search_query=Khaled+Al+Melody+Jani+Bigool) · [Spotify](https://open.spotify.com/search/Khaled%20Al%20Melody%20Jani%20Bigool) · [Apple](https://music.apple.com/us/search?term=Khaled+Al+Melody+Jani+Bigool) |
+| 16 | Last Night a DJ Saved My Life (edit) | Indeep | — | [YouTube](https://www.youtube.com/results?search_query=Indeep+Last+Night+a+DJ+Saved+My+Life+%28edit%29) · [Spotify](https://open.spotify.com/search/Indeep%20Last%20Night%20a%20DJ%20Saved%20My%20Life%20%28edit%29) · [Apple](https://music.apple.com/us/search?term=Indeep+Last+Night+a+DJ+Saved+My+Life+%28edit%29) |
+| 17 | Lose My Head | — | — | [YouTube](https://www.youtube.com/results?search_query=Lose+My+Head) · [Spotify](https://open.spotify.com/search/Lose%20My%20Head) · [Apple](https://music.apple.com/us/search?term=Lose+My+Head) |
+| 18 | Angra | Manuel De La Mare | — | [YouTube](https://www.youtube.com/results?search_query=Manuel+De+La+Mare+Angra) · [Spotify](https://open.spotify.com/search/Manuel%20De%20La%20Mare%20Angra) · [Apple](https://music.apple.com/us/search?term=Manuel+De+La+Mare+Angra) |
+| 19 | Merther | Mau P | — | [YouTube](https://www.youtube.com/results?search_query=Mau+P+Merther) · [Spotify](https://open.spotify.com/search/Mau%20P%20Merther) · [Apple](https://music.apple.com/us/search?term=Mau+P+Merther) |
+| 20 | Deep in the Bottom of Africa | Monique Bingham | — | [YouTube](https://www.youtube.com/results?search_query=Monique+Bingham+Deep+in+the+Bottom+of+Africa) · [Spotify](https://open.spotify.com/search/Monique%20Bingham%20Deep%20in%20the%20Bottom%20of%20Africa) · [Apple](https://music.apple.com/us/search?term=Monique+Bingham+Deep+in+the+Bottom+of+Africa) |
+| 21 | Raw Tony Romera Remix | — | — | [YouTube](https://www.youtube.com/results?search_query=Raw+Tony+Romera+Remix) · [Spotify](https://open.spotify.com/search/Raw%20Tony%20Romera%20Remix) · [Apple](https://music.apple.com/us/search?term=Raw+Tony+Romera+Remix) |
+| 22 | TAKA | Ahadadream | — | [YouTube](https://www.youtube.com/results?search_query=Ahadadream+TAKA) · [Spotify](https://open.spotify.com/search/Ahadadream%20TAKA) · [Apple](https://music.apple.com/us/search?term=Ahadadream+TAKA) |
+| 23 | U Must Try Extended Mix | — | — | [YouTube](https://www.youtube.com/results?search_query=U+Must+Try+Extended+Mix) · [Spotify](https://open.spotify.com/search/U%20Must%20Try%20Extended%20Mix) · [Apple](https://music.apple.com/us/search?term=U+Must+Try+Extended+Mix) |
+| 24 | Shake It | Venga | — | [YouTube](https://www.youtube.com/results?search_query=Venga+Shake+It) · [Spotify](https://open.spotify.com/search/Venga%20Shake%20It) · [Apple](https://music.apple.com/us/search?term=Venga+Shake+It) |
+| 25 | Shaf | Ya Man Hawah | — | [YouTube](https://www.youtube.com/results?search_query=Ya+Man+Hawah+Shaf) · [Spotify](https://open.spotify.com/search/Ya%20Man%20Hawah%20Shaf) · [Apple](https://music.apple.com/us/search?term=Ya+Man+Hawah+Shaf) |
+| 26 | The White Bird Band | Ya Ummi | — | [YouTube](https://www.youtube.com/results?search_query=Ya+Ummi+The+White+Bird+Band) · [Spotify](https://open.spotify.com/search/Ya%20Ummi%20The%20White%20Bird%20Band) · [Apple](https://music.apple.com/us/search?term=Ya+Ummi+The+White+Bird+Band) |
+| 27 | nobody (make me feel) | oskar med k | — | [YouTube](https://www.youtube.com/results?search_query=oskar+med+k+nobody+%28make+me+feel%29) · [Spotify](https://open.spotify.com/search/oskar%20med%20k%20nobody%20%28make%20me%20feel%29) · [Apple](https://music.apple.com/us/search?term=oskar+med+k+nobody+%28make+me+feel%29) |
