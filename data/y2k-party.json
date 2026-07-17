@@ -1,0 +1,529 @@
+{
+  "slug": "y2k-party",
+  "name": "Y2K Party",
+  "source": "m3u",
+  "track_count": 52,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "Justin Timberlake",
+      "title": "Senorita",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 - Justin Timberlake - Senorita.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Crystal Waters",
+      "title": "Gypsy Woman (She's Homeless) (Basement Boy 'Strip To The Bone' Mix)",
+      "album": null,
+      "year": "1991",
+      "duration_sec": null,
+      "source_file": "01. Gypsy Woman (She's Homeless) (Basement Boy 'Strip To The Bone' Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance (Feat. Colby O'Donis)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. Lady Gaga - Just Dance (Feat. Colby O'Donis).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": null,
+      "year": "2000",
+      "duration_sec": null,
+      "source_file": "01. One More Time.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "See You Again",
+      "album": null,
+      "year": "2007",
+      "duration_sec": null,
+      "source_file": "01. See You Again.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "OutKast",
+      "title": "The Way You Move",
+      "album": null,
+      "year": "2003",
+      "duration_sec": null,
+      "source_file": "01. The Way You Move.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Macklemore & Ryan Lewis",
+      "title": "Can't Hold Us (feat. Ray Dalton)",
+      "album": null,
+      "year": "2012",
+      "duration_sec": null,
+      "source_file": "02 - Can't Hold Us (feat. Ray Dalton).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Hannah Montana",
+      "title": "Nobody's Perfect",
+      "album": null,
+      "year": "2007",
+      "duration_sec": null,
+      "source_file": "02. Nobody's Perfect.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sting",
+      "title": "Desert Rose",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "02. Sting - Desert Rose.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Akon",
+      "title": "Bananza (Belly Dancer)",
+      "album": null,
+      "year": "2004",
+      "duration_sec": null,
+      "source_file": "03. Bananza (Belly Dancer).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "OutKast",
+      "title": "Hey Ya!",
+      "album": null,
+      "year": "2003",
+      "duration_sec": null,
+      "source_file": "03. Hey Ya!.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Pussycat Dolls",
+      "title": "Don't Cha (Radio Edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03. The Pussycat Dolls - Don't Cha (Radio Edit).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "album": null,
+      "year": "2001",
+      "duration_sec": null,
+      "source_file": "04. Harder, Better, Faster, Stronger.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04. Lady Gaga - Poker Face.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Eminem",
+      "title": "My Name Is",
+      "album": null,
+      "year": "1999",
+      "duration_sec": null,
+      "source_file": "04. My Name Is.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Hannah Montana",
+      "title": "Rock Star",
+      "album": null,
+      "year": "2007",
+      "duration_sec": null,
+      "source_file": "04. Rock Star.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "OutKast",
+      "title": "So Fresh, So Clean",
+      "album": null,
+      "year": "2000",
+      "duration_sec": null,
+      "source_file": "04. So Fresh, So Clean.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Cry Me A River",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05 - Justin Timberlake - Cry Me A River.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "album": null,
+      "year": "2002",
+      "duration_sec": null,
+      "source_file": "06. Lose Yourself.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "50 Cent feat. Olivia",
+      "title": "Candy Shop",
+      "album": null,
+      "year": "2005",
+      "duration_sec": null,
+      "source_file": "07. Candy Shop (Feat. Olivia).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cascada",
+      "title": "Everytime We Touch",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "07. Cascada - Everytime We Touch.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Aqua",
+      "title": "Barbie Girl",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08. Aqua - Barbie Girl.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "(And She Said) Take Me Now (featuring Janet Jackson)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "10 - Justin Timberlake - (And She Said) Take Me Now (featuring Janet Jackson).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Boys, Boys, Boys",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "10. Lady Gaga - Boys, Boys, Boys.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ne-Yo",
+      "title": "Because Of You",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "10. Ne-Yo - Because Of You.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "50 Cent",
+      "title": "P.I.M.P",
+      "album": null,
+      "year": "2003",
+      "duration_sec": null,
+      "source_file": "11. P.I.M.P.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Where Is The Love",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "11. The Black Eyed Peas - Where Is The Love_.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Eminem",
+      "title": "The Real Slim Shady",
+      "album": null,
+      "year": "2000",
+      "duration_sec": null,
+      "source_file": "11. The Real Slim Shady.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Family Affair",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "13. Mary J. Blige - Family Affair.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Eminem",
+      "title": "Just Lose It",
+      "album": null,
+      "year": "2004",
+      "duration_sec": null,
+      "source_file": "15. Just Lose It.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Game & 50 Cent",
+      "title": "Hate It Or Love It (G-Unit Remix)",
+      "album": null,
+      "year": "2005",
+      "duration_sec": null,
+      "source_file": "22 - Hate It Or Love It (G-Unit Remix) [feat. The Game & Tony Yayo & Young Buck & Lloyd Banks] [Explicit].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "28. Vanessa Carlton - A Thousand Miles.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cent",
+      "title": "In Da Club (Intl Version)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "50 Cent - In Da Club (Intl Version).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "61. Lady Gaga - Just Dance.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Timbaland",
+      "title": "The Way I Are",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "62. Timbaland - The Way I Are.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Drop It Like It's Hot",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "73. Snoop Dogg - Drop It Like It's Hot.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Alexandra Stan",
+      "title": "Mr Saxobeat",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Alexandra Stan - Mr Saxobeat.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "Crazy In Love ft. JAY Z",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Beyoncé - Crazy In Love ft. JAY Z.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Gimme More",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Britney Spears - Gimme More (Official HD Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Toxic",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Britney Spears - Toxic (Official HD Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Usher feat. Pitbull",
+      "title": "DJ Got Us Fallin' In Love",
+      "album": null,
+      "year": "2010",
+      "duration_sec": null,
+      "source_file": "DJ Got Us Fallin' In Love.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Darude - Sandstorm.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Far East Movement feat. The Cataracs & Dev",
+      "title": "Like A G6",
+      "album": null,
+      "year": "2010",
+      "duration_sec": null,
+      "source_file": "FarEastMovementFt.TheCataracsDev-LikeAG6.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Club Can't Handle Me (Ft. David Guetta)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Flo Rida - Club Can't Handle Me (Ft. David Guetta).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gala",
+      "title": "Freed From Desire (1996)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Gala - Freed From Desire (1996).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Usher feat. Young Jeezy",
+      "title": "Love in This Club",
+      "album": null,
+      "year": "2008",
+      "duration_sec": null,
+      "source_file": "Love in This Club.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Stardust",
+      "title": "Music Sounds Better With You",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Stardust - Music Sounds Better With You.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "My Humps",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "The Black Eyed Peas - My Humps.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Pump It",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "The Black Eyed Peas - Pump It (Official Music Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Umbrella",
+      "title": "Rihanna (Lyrics) ft. JAY-Z",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Umbrella - Rihanna (Lyrics) ft. JAY-Z.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Usher",
+      "title": "DJ Got Us Fallin' In Love (Lyrics) ft. Pitbull (128 kbps)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Usher - DJ Got Us Fallin' In Love (Lyrics) ft. Pitbull (128 kbps).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Usher feat. Lil Jon & Ludacris",
+      "title": "Yeah!",
+      "album": null,
+      "year": "2004",
+      "duration_sec": null,
+      "source_file": "Yeah!.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

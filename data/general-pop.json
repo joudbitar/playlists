@@ -1,0 +1,649 @@
+{
+  "slug": "general-pop",
+  "name": "General Pop",
+  "source": "m3u",
+  "track_count": 64,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0007 - Coldplay - Viva La Vida [2009].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0013 - Pink Floyd - Comfortably Numb [1979].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Shine On You Crazy Diamond",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0015 - Pink Floyd - Shine On You Crazy Diamond [1975].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Sultans Of Swing",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0025 - Dire Straits - Sultans Of Swing [1978].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "0064 - Michael Jackson - Billie Jean [1983].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0071 - Nirvana - Smells Like Teen Spirit [1991].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Senorita",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 - Justin Timberlake - Senorita.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": null,
+      "year": "2000",
+      "duration_sec": null,
+      "source_file": "01 One More Time.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Crystal Waters",
+      "title": "Gypsy Woman (She's Homeless) (Basement Boy 'Strip To The Bone' Mix)",
+      "album": null,
+      "year": "1991",
+      "duration_sec": null,
+      "source_file": "01. Gypsy Woman (She's Homeless) (Basement Boy 'Strip To The Bone' Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance (Feat. Colby O'Donis)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. Lady Gaga - Just Dance (Feat. Colby O'Donis).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "OutKast",
+      "title": "Ms. Jackson",
+      "album": null,
+      "year": "2000",
+      "duration_sec": null,
+      "source_file": "01. Ms. Jackson.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "01. Stayin' Alive.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Californication",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0128 - Red Hot Chili Peppers - Californication [2000].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Macklemore & Ryan Lewis",
+      "title": "Can't Hold Us (feat. Ray Dalton)",
+      "album": null,
+      "year": "2012",
+      "duration_sec": null,
+      "source_file": "02 - Can't Hold Us (feat. Ray Dalton).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Dreams",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "02 - Dreams.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake feat. Jay-Z",
+      "title": "Suit & Tie",
+      "album": null,
+      "year": "2013",
+      "duration_sec": null,
+      "source_file": "02 - Suit & Tie.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "02 - Take A Chance On Me.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tyler, the Creator",
+      "title": "EARFQUAKE",
+      "album": null,
+      "year": "2019",
+      "duration_sec": null,
+      "source_file": "02 EARFQUAKE.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Bad Habit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "028 - Steve Lacy - Bad Habit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Calvin Harris, Clementine Douglas",
+      "title": "Blessings",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03 - Calvin Harris, Clementine Douglas - Blessings.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Rich Girl",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03 Rich Girl.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "04 BIRDS OF A FEATHER.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tyler, the Creator",
+      "title": "See You Again (feat. Kali Uchis)",
+      "album": null,
+      "year": "2017",
+      "duration_sec": null,
+      "source_file": "04 See You Again.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tyler, the Creator feat. Frank Ocean",
+      "title": "She",
+      "album": null,
+      "year": "2011",
+      "duration_sec": null,
+      "source_file": "04 She (Feat Frank Ocean).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tyler, the Creator",
+      "title": "WUSYANAME",
+      "album": null,
+      "year": "2021",
+      "duration_sec": null,
+      "source_file": "04 WUSYANAME.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04. Lady Gaga - Poker Face.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Oden & Fatzo, Poppy Baskcomb",
+      "title": "Tell Me What You Want",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "046 - Oden & Fatzo, Poppy Baskcomb - Tell Me What You Want.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ANOTR, Abel Balder",
+      "title": "Relax My Eyes",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "059 - ANOTR, Abel Balder - Relax My Eyes.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Rock Your Body",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "06 - Justin Timberlake - Rock Your Body.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Another One Bites The Dust",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "0686 - Queen - Another One Bites The Dust [1980].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Last Night",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08 - Justin Timberlake - Last Night.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daft Punk feat. Pharrell Williams",
+      "title": "Get Lucky",
+      "album": null,
+      "year": "2013",
+      "duration_sec": null,
+      "source_file": "08 Get Lucky.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tyler, the Creator ft. Rex Orange County & Anna of the North",
+      "title": "- Boredom",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08 Tyler, the Creator ft. Rex Orange County & Anna of the North - - Boredom.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Estelle feat. Kanye West",
+      "title": "American Boy",
+      "album": null,
+      "year": "2008",
+      "duration_sec": null,
+      "source_file": "1-01 American Boy (feat. Kanye West).m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Adam Port, Stryv, Keinemusik, Orso, Malachiii",
+      "title": "Move",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "10 - Adam Port, Stryv, Keinemusik, Orso, Malachiii - Move.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Lost",
+      "album": null,
+      "year": "2012",
+      "duration_sec": null,
+      "source_file": "11-Lost.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "More Than A Woman",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "11. More Than A Woman (From ''Saturday Night Fever'' Soundtrack).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Manu Chao",
+      "title": "Me Gustas Tu",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "1259 - Manu Chao - Me Gustas Tu [2000].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "THE ANXIETY, WILLOW & Tyler Cole",
+      "title": "Meet Me at Our Spot",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "33 THE ANXIETY, WILLOW & Tyler Cole - Meet Me at Our Spot.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Calvin Harris & Dua Lipa",
+      "title": "One Kiss",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "39. Calvin Harris & Dua Lipa - One Kiss.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Alabina",
+      "title": "Alabina",
+      "album": null,
+      "year": "1996",
+      "duration_sec": null,
+      "source_file": "Alabina Original 1996.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bob Sinclar",
+      "title": "World, Hold On (FISHER Rework)",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Bob Sinclar World Hold On FISHER Rework.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Toxic",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Britney Spears - Toxic (Official HD Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX & Troye Sivan",
+      "title": "1999",
+      "album": null,
+      "year": "2018",
+      "duration_sec": null,
+      "source_file": "Charli XCX 1999.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Elton John & Dua Lipa",
+      "title": "Cold Heart (PNAU Remix)",
+      "album": null,
+      "year": "2021",
+      "duration_sec": null,
+      "source_file": "Cold Heart PNAU Remix by Elton John.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Could Be Wrong",
+      "title": "Lostboyjay",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Could Be Wrong - Lostboyjay.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daniel Caesar feat. H.E.R.",
+      "title": "Best Part",
+      "album": null,
+      "year": "2017",
+      "duration_sec": null,
+      "source_file": "Daniel Caesar_Freudian_02_Best Part.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Guetta feat. Sia",
+      "title": "Titanium",
+      "album": null,
+      "year": "2011",
+      "duration_sec": null,
+      "source_file": "David Guetta Titanium feat Sia.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Earth, Wind & Fire - September.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Nights",
+      "album": null,
+      "year": "2016",
+      "duration_sec": null,
+      "source_file": "Frank Ocean_Blonde_09_Nights.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Fred again. Actual Life (April 14",
+      "title": "December 17 2020) 02-01 Marea (we’ve lost dancing)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Fred again._Actual Life (April 14 - December 17 2020)_02-01_Marea (we’ve lost dancing).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Fred again..",
+      "title": "adore u",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Fred again._ten days_02_adore u.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Fred again..",
+      "title": "ten",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Fred again._ten days_04_ten.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Indeep",
+      "title": "Last Night a DJ Saved My Life (edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Last Night a DJ Saved My Life Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lauren (I Can't Stay Forever)",
+      "title": "Oden & Fatzo",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Lauren (I Can't Stay Forever) - Oden & Fatzo.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "Michael Jackson - Rock With You.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Monique Bingham",
+      "title": "Deep in the Bottom of Africa",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Monique Bingham - Deep in the Bottom of Africa.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Namerakana",
+      "title": "Lemtom",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Namerakana - Lemtom.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "(It Goes Like) Nanana (edit)",
+      "album": null,
+      "year": "2023",
+      "duration_sec": null,
+      "source_file": "Peggy Gou It Goes Like Nanana Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shocking Blue",
+      "title": "Venus",
+      "album": null,
+      "year": "1969",
+      "duration_sec": null,
+      "source_file": "Shocking Blue Venus.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Studio Killers",
+      "title": "Jenny (I Wanna Ruin Our Friendship)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Studio Killers - Jenny (I Wanna Ruin Our Friendship).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "I Gotta Feeling",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "The Black Eyed Peas - I Gotta Feeling (Official Music Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "U Must Try Extended Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "U Must Try Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Jack Marlow",
+      "title": "Who Do U",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Who Do U by Jack Marlow.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

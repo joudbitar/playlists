@@ -1,0 +1,959 @@
+{
+  "slug": "70s-party",
+  "name": "70s Party",
+  "source": "m3u",
+  "track_count": 95,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "01 - Mamma Mia.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Ring Ring",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "01 - Ring Ring.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "01. Bohemian Rhapsody.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Chic",
+      "title": "Good Times",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. Chic - Good Times.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "01. Stayin' Alive.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen & Elton John",
+      "title": "The Show Must Go On (live)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. The Show Must Go On [Queen with Elton John].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "The Winner Takes It All",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "01. The Winner Takes It All.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Watch That Man",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "01. Watch That Man.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Young Americans",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "01. Young Americans.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Jacksons",
+      "title": "Enjoy Yourself",
+      "album": null,
+      "year": "1976",
+      "duration_sec": null,
+      "source_file": "01.-Enjoy Yourself.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Another Town, Another Train",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "02 - Another Town, Another Train.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "album": null,
+      "year": "1976",
+      "duration_sec": null,
+      "source_file": "02 - Dancing Queen.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "02 - Take A Chance On Me.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Voulez-Vous",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "02 - Voulez-Vous.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Aladdin Sane",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "02. Aladdin Sane.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Another One Bites The Dust",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "02. Another One Bites The Dust.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lipps Inc.",
+      "title": "Funkytown",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "02. Lipps Inc. - Funkytown.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "02. Sister Sledge - We Are Family.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Super Trouper",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "02. Super Trouper.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen & David Bowie",
+      "title": "Under Pressure (Rah Mix)",
+      "album": null,
+      "year": "1999",
+      "duration_sec": null,
+      "source_file": "02. Under Pressure (Rah Mix) [Queen with David Bowie].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen & David Bowie",
+      "title": "Under Pressure",
+      "album": null,
+      "year": "1981",
+      "duration_sec": null,
+      "source_file": "02. Under Pressure.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Win",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "02. Win.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Jacksons",
+      "title": "Blame It On The Boogie",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "02.-Blame It On The Boogie.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Blondie",
+      "title": "Atomic",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "03 - Atomic.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Disillusion",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "03 - Disillusion.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Drive In Saturday",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "03. Drive In Saturday.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "Boogie Wonderland (with The Emotions)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03. Earth, Wind & Fire - Boogie Wonderland (with The Emotions).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03. Earth, Wind & Fire - September.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Fascination",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "03. Fascination.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03. Gloria Gaynor - I Will Survive.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "03. How Deep Is Your Love.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Moonage Daydream",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "03. Moonage Daydream.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Waterloo",
+      "album": null,
+      "year": "1974",
+      "duration_sec": null,
+      "source_file": "03. Waterloo.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Jacksons",
+      "title": "Shake Your Body (Down To The Ground)",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "03.-Shake Your Body (Down To The Ground).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "People Need Love",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "04 - People Need Love.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "SOS",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "04 - SOS.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "04. Gimme! Gimme! Gimme! (A Man After Midnight).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "I Want It All",
+      "album": null,
+      "year": "1989",
+      "duration_sec": null,
+      "source_file": "04. I Want It All.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Jive Talkin'",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "04. Jive Talkin'.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Panic In Detroit",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "04. Panic In Detroit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Right",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "04. Right.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Starman",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "04. Starman.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Village People",
+      "title": "YMCA",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04. Village People - YMCA.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Don't Stop 'Til You Get Enough",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "04.-Don't Stop 'Til You Get Enough.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "I Saw It In The Mirror",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "05 - I Saw It In The Mirror.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Knowing Me, Knowing You",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "05 - Knowing Me, Knowing You.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Chic",
+      "title": "Le Freak (Edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05. Chic - Le Freak (Edit).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "I Want To Break Free",
+      "album": null,
+      "year": "1984",
+      "duration_sec": null,
+      "source_file": "05. I Want To Break Free.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Night Fever",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "05. Night Fever.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Somebody Up There Likes Me",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "05. Somebody Up There Likes Me.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "05.-Rock With You.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Blondie",
+      "title": "Call Me",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "06 - Call Me.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Does Your Mother Know",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "06 - Does Your Mother Know.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Across The Universe",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "06. Across The Universe.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Don't Stop Me Now",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "07. Don't Stop Me Now.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "You Should Be Dancing",
+      "album": null,
+      "year": "1976",
+      "duration_sec": null,
+      "source_file": "07. You Should Be Dancing.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08. Diana Ross - Upside Down.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Fame",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "08. Fame.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Hang Onto Yourself",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "08. Hang Onto Yourself.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Let's Spend The Night Together",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "08. Let's Spend The Night Together.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Lay All Your Love On Me",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "09 - Lay All Your Love On Me.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Kool & The Gang",
+      "title": "Get Down On It",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "09. Kool & The Gang - Get Down On It.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "The Jean Genie",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "09. The Jean Genie.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Trammps",
+      "title": "Disco Inferno",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "09. The Trammps - Disco Inferno.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Ziggy Stardust",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "09. Ziggy Stardust.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson & Paul McCartney",
+      "title": "The Girl Is Mine",
+      "album": null,
+      "year": "1982",
+      "duration_sec": null,
+      "source_file": "09.-The Girl Is Mine.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Lady Grinning Soul",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "10. Lady Grinning Soul.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Love You Inside Out",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "10. Love You Inside Out.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Patrick Juvet",
+      "title": "I love America",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "10. Patrick Juvet - I love America.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Somebody To Love",
+      "album": null,
+      "year": "1976",
+      "duration_sec": null,
+      "source_file": "10. Somebody To Love.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Suffragette City",
+      "album": null,
+      "year": "1972",
+      "duration_sec": null,
+      "source_file": "10. Suffragette City.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "10.-Billie Jean.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "I Am Just A Girl",
+      "album": null,
+      "year": "1973",
+      "duration_sec": null,
+      "source_file": "11 - I Am Just A Girl.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "More Than A Woman",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "11. More Than A Woman (From ''Saturday Night Fever'' Soundtrack).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Nights On Broadway",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "12. Nights On Broadway.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "12.-Beat It.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Patti LaBelle",
+      "title": "Lady Marmalade",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "13. Patti LaBelle - Lady Marmalade.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sylvester",
+      "title": "You Make Me Feel (Mighty Real)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "14. Sylvester - You Make Me Feel (Mighty Real).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "14.-Thriller.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "Seven Seas Of Rhye",
+      "album": null,
+      "year": "1974",
+      "duration_sec": null,
+      "source_file": "15. Seven Seas Of Rhye.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Kc & The Sunshine Band",
+      "title": "That's The Way I Like It",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "16. Kc & The Sunshine Band - That's The Way I Like It.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "The Show Must Go On",
+      "album": null,
+      "year": "1991",
+      "duration_sec": null,
+      "source_file": "16. The Show Must Go On.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "16. We Will Rock You.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Bad",
+      "album": null,
+      "year": "1987",
+      "duration_sec": null,
+      "source_file": "16.-Bad.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Boney M.",
+      "title": "Rasputin",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "17. Boney M. - Rasputin.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Queen",
+      "title": "We Are The Champions",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "17. We Are The Champions.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Smooth Criminal",
+      "album": null,
+      "year": "1988",
+      "duration_sec": null,
+      "source_file": "17.-Smooth Criminal.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Blondie",
+      "title": "Heart Of Glass",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "18 - Heart Of Glass.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "You Win Again",
+      "album": null,
+      "year": "1987",
+      "duration_sec": null,
+      "source_file": "18. You Win Again.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "The Way You Make Me Feel",
+      "album": null,
+      "year": "1987",
+      "duration_sec": null,
+      "source_file": "18.-The Way You Make Me Feel.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Man In The Mirror",
+      "album": null,
+      "year": "1988",
+      "duration_sec": null,
+      "source_file": "19.-Man In The Mirror.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Dirty Diana",
+      "album": null,
+      "year": "1988",
+      "duration_sec": null,
+      "source_file": "20.-Dirty Diana.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "21. Thelma Houston - Don't Leave Me This Way.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Blondie",
+      "title": "One Way Or Another",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "22 - One Way Or Another.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Remember The Time",
+      "album": null,
+      "year": "1992",
+      "duration_sec": null,
+      "source_file": "23.-Remember The Time.flac",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

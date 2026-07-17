@@ -1,0 +1,132 @@
+#!/usr/bin/env python3
+"""Build the public playlists repo (markdown + data) from extracted JSON."""
+import json
+import sys
+import urllib.parse
+from pathlib import Path
+
+SRC = Path(sys.argv[1])   # dir with <slug>.json + index.json
+REPO = Path(sys.argv[2])  # repo root to write into
+
+BLURBS = {
+    "70s-party": "ABBA, Queen, Bowie, MJ, Bee Gees, Blondie — a full 70s night in order.",
+    "y2k-party": "Eminem to Hannah Montana. Low-rise jeans energy.",
+    "arab-house": "Arabic vocals over house grooves — the crossover set.",
+    "gay-club-anthems": "Certified dancefloor liberation. No skips allowed.",
+    "diwali-after": "The afterparty set — Bollywood and Punjabi bangers.",
+    "general-pop": "The crowd-pleaser set (played as \"Festival of Nations\") — disco to Tyler to Fred again.",
+    "south-asian": "Desi party pool, wedding-tier energy.",
+    "dnb-garage": "UK rollers — drum & bass and garage cuts.",
+    "stuff-i-like": "The personal rotation. House-leaning, Arabic accents.",
+    "lvl": "Reggaeton and Latin heat — Bad Bunny-forward.",
+    "reda": "Deep, rolling minimal house — a set built for a friend.",
+}
+
+
+def fmt_dur(sec):
+    if not sec:
+        return "—"
+    m, s = divmod(int(sec), 60)
+    h, m = divmod(m, 60)
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
+
+
+def yt_link(artist, title):
+    q = urllib.parse.quote_plus(" ".join(x for x in (artist, title) if x))
+    return f"https://www.youtube.com/results?search_query={q}"
+
+
+def esc(s):
+    return (s or "").replace("|", "\\|")
+
+
+def playlist_md(pl):
+    lines = [f"# {pl['name']}", ""]
+    blurb = BLURBS.get(pl["slug"])
+    if blurb:
+        lines += [f"> {blurb}", ""]
+    has_dur = pl["total_duration_sec"] > 0
+    order = "curated set order" if pl["source"] == "m3u" else "A–Z pool"
+    stats = [f"{pl['track_count']} tracks"]
+    if has_dur:
+        stats.append(fmt_dur(pl["total_duration_sec"]))
+    stats.append(order)
+    lines += [f"**{' · '.join(stats)}** · [JSON](../data/{pl['slug']}.json)", ""]
+    dur_h = " Length |" if has_dur else ""
+    dur_s = ":------:|" if has_dur else ""
+    lines += [f"| # | Track | Artist | Year |{dur_h} |",
+              f"|--:|-------|--------|:----:|{dur_s}--|"]
+    for i, t in enumerate(pl["tracks"], 1):
+        title = esc(t["title"]) or esc(t["source_file"])
+        artist = esc(t["artist"]) or "—"
+        year = t["year"] or "—"
+        link = f"[listen]({yt_link(t['artist'], t['title'])})"
+        dur_c = f" {fmt_dur(t['duration_sec'])} |" if has_dur else ""
+        lines.append(f"| {i} | {title} | {artist} | {year} |{dur_c} {link} |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def main():
+    playlists = []
+    for f in sorted(SRC.glob("*.json")):
+        if f.name == "index.json":
+            continue
+        playlists.append(json.loads(f.read_text()))
+
+    # order: parties first, then pools, then personal
+    order = ["70s-party", "y2k-party", "gay-club-anthems", "arab-house",
+             "diwali-after", "general-pop", "south-asian",
+             "stuff-i-like", "dnb-garage", "lvl", "reda"]
+    playlists.sort(key=lambda p: order.index(p["slug"]) if p["slug"] in order else 99)
+
+    (REPO / "playlists").mkdir(parents=True, exist_ok=True)
+    (REPO / "data").mkdir(parents=True, exist_ok=True)
+
+    for pl in playlists:
+        (REPO / "playlists" / f"{pl['slug']}.md").write_text(playlist_md(pl))
+        (REPO / "data" / f"{pl['slug']}.json").write_text(
+            json.dumps(pl, indent=2, ensure_ascii=False) + "\n")
+
+    total_tracks = sum(p["track_count"] for p in playlists)
+
+    md = ["# playlists", "",
+          "My playlists as open data — every set I've built and DJ'd, published as",
+          "clean track lists instead of rotting in a folder of `.m3u` files.", "",
+          f"**{len(playlists)} playlists · {total_tracks} tracks.**", "",
+          "Each playlist is a human-readable page in [`playlists/`](playlists/) and a",
+          "machine-readable JSON file in [`data/`](data/). Party sets keep their",
+          "curated play order. No audio lives here — just the recipes, with a",
+          "YouTube search link per track so any of them is one click from playable.", "",
+          "| Playlist | Tracks | Vibe |",
+          "|----------|-------:|------|"]
+    for p in playlists:
+        blurb = BLURBS.get(p["slug"]) or ""
+        md.append(f"| [{p['name']}](playlists/{p['slug']}.md) | {p['track_count']} | {blurb} |")
+    md += ["",
+           "## Data format", "",
+           "```json", json.dumps({
+               "slug": "70s-party", "name": "70s Party", "source": "m3u",
+               "track_count": 95,
+               "tracks": [{"artist": "ABBA", "title": "Dancing Queen",
+                           "year": "1976"}]}, indent=2), "```", "",
+           "`source: m3u` means the track order is the curated set order;",
+           "`source: folder` playlists are alphabetical pools. Some tracks in the",
+           "deeper crates have `artist: null` — the filename didn't say and I",
+           "didn't guess.", "",
+           "## How it's built", "",
+           "The pipeline lives in [`tools/`](tools/):", "",
+           "1. `extract_playlists.py` reads the local `.m3u` files and playlist",
+           "   folders, parses artist/title out of filenames (and audio tags via",
+           "   `ffprobe` when the files are materialized locally — cloud placeholders",
+           "   are skipped rather than force-downloaded), and applies",
+           "   `overrides.json`, a hand-curated metadata file for tracks whose",
+           "   filenames don't carry the artist.",
+           "2. `build_repo.py` renders the markdown pages, the JSON data files,",
+           "   and this README.", ""]
+    (REPO / "README.md").write_text("\n".join(md))
+    print(f"Repo built at {REPO}: {len(playlists)} playlists, {total_tracks} tracks")
+
+
+if __name__ == "__main__":
+    main()

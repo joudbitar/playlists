@@ -1,0 +1,609 @@
+{
+  "slug": "gay-club-anthems",
+  "name": "Gay Club Anthems",
+  "source": "m3u",
+  "track_count": 60,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "Justin Timberlake",
+      "title": "Senorita",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 - Justin Timberlake - Senorita.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": null,
+      "year": "1975",
+      "duration_sec": null,
+      "source_file": "01 - Mamma Mia.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Chic",
+      "title": "Good Times",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. Chic - Good Times.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance (Feat. Colby O'Donis)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01. Lady Gaga - Just Dance (Feat. Colby O'Donis).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
+      "album": null,
+      "year": "1977",
+      "duration_sec": null,
+      "source_file": "01. Stayin' Alive.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "The Winner Takes It All",
+      "album": null,
+      "year": "1980",
+      "duration_sec": null,
+      "source_file": "01. The Winner Takes It All.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Macklemore & Ryan Lewis",
+      "title": "Can't Hold Us (feat. Ray Dalton)",
+      "album": null,
+      "year": "2012",
+      "duration_sec": null,
+      "source_file": "02 - Can't Hold Us (feat. Ray Dalton).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "album": null,
+      "year": "1976",
+      "duration_sec": null,
+      "source_file": "02 - Dancing Queen.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": null,
+      "year": "1978",
+      "duration_sec": null,
+      "source_file": "02 - Take A Chance On Me.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Voulez-Vous",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "02 - Voulez-Vous.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "The Weather Girls",
+      "title": "It's Raining Men",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03 - The Weather Girls - It's Raining Men.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "04. Gimme! Gimme! Gimme! (A Man After Midnight).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04. Lady Gaga - Poker Face.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Village People",
+      "title": "YMCA",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04. Village People - YMCA.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": null,
+      "year": "1979",
+      "duration_sec": null,
+      "source_file": "05.-Rock With You.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Aqua",
+      "title": "Barbie Girl",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08. Aqua - Barbie Girl.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "12.-Beat It.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "album": null,
+      "year": "1983",
+      "duration_sec": null,
+      "source_file": "14.-Thriller.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cent",
+      "title": "In Da Club (Intl Version)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "50 Cent - In Da Club (Intl Version).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "61. Lady Gaga - Just Dance.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ariana Grande feat. Zedd",
+      "title": "Break Free",
+      "album": null,
+      "year": "2014",
+      "duration_sec": null,
+      "source_file": "Ariana Grande Break Free.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "Crazy In Love ft. JAY Z",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Beyoncé - Crazy In Love ft. JAY Z.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Billie Eilish - Bad Guy.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Born This Way",
+      "title": "Lady Gaga",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Born This Way - Lady Gaga.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Gimme More",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Britney Spears - Gimme More (Official HD Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Toxic",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Britney Spears - Toxic (Official HD Video).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Call Me Maybe",
+      "title": "Carly Rae Jepsen",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Call Me Maybe - Carly Rae Jepsen.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Guess feat Billie Eilish",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Charli XCX - Guess feat Billie Eilish.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX & Troye Sivan",
+      "title": "1999",
+      "album": null,
+      "year": "2018",
+      "duration_sec": null,
+      "source_file": "Charli XCX 1999.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "365",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Charli XCX 365.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Club classics",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Charli XCX Club Classics.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Vroom Vroom",
+      "album": null,
+      "year": "2016",
+      "duration_sec": null,
+      "source_file": "Charli XCX Vroom Vroom.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Elton John & Dua Lipa",
+      "title": "Cold Heart (PNAU Remix)",
+      "album": null,
+      "year": "2021",
+      "duration_sec": null,
+      "source_file": "Cold Heart PNAU Remix by Elton John.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Could Be Wrong",
+      "title": "Lostboyjay",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Could Be Wrong - Lostboyjay.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "David Guetta feat. Sia",
+      "title": "Titanium",
+      "album": null,
+      "year": "2011",
+      "duration_sec": null,
+      "source_file": "David Guetta Titanium feat Sia.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Dr Gabba",
+      "title": "Error",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Dr Gabba - Error.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Elton John & Britney Spears",
+      "title": "Hold Me Closer",
+      "album": null,
+      "year": "2022",
+      "duration_sec": null,
+      "source_file": "Elton John Hold Me Closer.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Foreigner",
+      "title": "I Want to Know What Love Is",
+      "album": null,
+      "year": "1984",
+      "duration_sec": null,
+      "source_file": "Foreigner I Want to Know What Love Is.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Katseye",
+      "title": "Gnarly",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Gnarly by Katseye.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive (Eric Kupper Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "I Will Survive Eric Kupper Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "I've Got The Feeling Original Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "I've Got The Feeling Original Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "Let's Get Loud",
+      "album": null,
+      "year": "1999",
+      "duration_sec": null,
+      "source_file": "Jennifer Lopez Let's Get Loud.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Jessica Cornish",
+      "title": "Ban Ban",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Jessica Cornish - Ban Ban.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Walking On Air",
+      "album": null,
+      "year": "2013",
+      "duration_sec": null,
+      "source_file": "Katy Perry Walking On Air.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lady Gaga & Ariana Grande",
+      "title": "Rain On Me",
+      "album": null,
+      "year": "2020",
+      "duration_sec": null,
+      "source_file": "Lady Gaga Rain On Me.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Namerakana",
+      "title": "Lemtom",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Namerakana - Lemtom.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Brutal",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Olivia Rodrigo - Brutal (1).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Pastel Ghost",
+      "title": "Dark Beach",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Pastel Ghost - Dark Beach.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "(It Goes Like) Nanana (edit)",
+      "album": null,
+      "year": "2023",
+      "duration_sec": null,
+      "source_file": "Peggy Gou It Goes Like Nanana Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Timber",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Pitbull - Timber.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Rihanna feat. Calvin Harris",
+      "title": "We Found Love",
+      "album": null,
+      "year": "2011",
+      "duration_sec": null,
+      "source_file": "Rihanna We Found Love.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shakira feat. Wyclef Jean",
+      "title": "Hips Don't Lie",
+      "album": null,
+      "year": "2006",
+      "duration_sec": null,
+      "source_file": "Shakira Hips Don't Lie.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shocking Blue",
+      "title": "Venus",
+      "album": null,
+      "year": "1969",
+      "duration_sec": null,
+      "source_file": "Shocking Blue Venus.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Starjunk 95",
+      "title": "Groove District",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Starjunk 95 - Groove District.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Stronger",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Stronger by Britney Spears.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Studio Killers",
+      "title": "Jenny (I Wanna Ruin Our Friendship)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Studio Killers - Jenny (I Wanna Ruin Our Friendship).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Taylor Swift - Shake It Off.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Vantage 50 50",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Vantage 50 50.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cardi B feat. Megan Thee Stallion",
+      "title": "WAP",
+      "album": null,
+      "year": "2020",
+      "duration_sec": null,
+      "source_file": "WAP Cardi B feat Megan Thee Stallion.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Wannabe",
+      "title": "Spice Girls",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Wannabe - Spice Girls.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

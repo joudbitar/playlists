@@ -1,0 +1,843 @@
+{
+  "_comment": "Manual metadata for tracks whose filenames lack artist tags. Keys are the parsed title, or 'file:<source filename>' for exact-file matches (which win). Values: artist / title / year.",
+  "file:01. See You Again.flac": {
+    "artist": "Miley Cyrus",
+    "title": "See You Again",
+    "year": "2007"
+  },
+  "file:04 See You Again.flac": {
+    "artist": "Tyler, the Creator",
+    "title": "See You Again (feat. Kali Uchis)",
+    "year": "2017"
+  },
+  "file:04. Rock Star.flac": {
+    "artist": "Hannah Montana",
+    "title": "Rock Star",
+    "year": "2007"
+  },
+  "Mamma Mia": {
+    "artist": "ABBA",
+    "year": "1975"
+  },
+  "Ring Ring": {
+    "artist": "ABBA",
+    "year": "1973"
+  },
+  "Waterloo": {
+    "artist": "ABBA",
+    "year": "1974"
+  },
+  "Dancing Queen": {
+    "artist": "ABBA",
+    "year": "1976"
+  },
+  "Take A Chance On Me": {
+    "artist": "ABBA",
+    "year": "1978"
+  },
+  "Voulez-Vous": {
+    "artist": "ABBA",
+    "year": "1979"
+  },
+  "Super Trouper": {
+    "artist": "ABBA",
+    "year": "1980"
+  },
+  "The Winner Takes It All": {
+    "artist": "ABBA",
+    "year": "1980"
+  },
+  "Lay All Your Love On Me": {
+    "artist": "ABBA",
+    "year": "1980"
+  },
+  "Gimme! Gimme! Gimme! (A Man After Midnight)": {
+    "artist": "ABBA",
+    "year": "1979"
+  },
+  "Knowing Me, Knowing You": {
+    "artist": "ABBA",
+    "year": "1977"
+  },
+  "Does Your Mother Know": {
+    "artist": "ABBA",
+    "year": "1979"
+  },
+  "SOS": {
+    "artist": "ABBA",
+    "year": "1975"
+  },
+  "People Need Love": {
+    "artist": "ABBA",
+    "year": "1972"
+  },
+  "Another Town, Another Train": {
+    "artist": "ABBA",
+    "year": "1973"
+  },
+  "Disillusion": {
+    "artist": "ABBA",
+    "year": "1973"
+  },
+  "I Saw It In The Mirror": {
+    "artist": "ABBA",
+    "year": "1973"
+  },
+  "I Am Just A Girl": {
+    "artist": "ABBA",
+    "year": "1973"
+  },
+  "Bohemian Rhapsody": {
+    "artist": "Queen",
+    "year": "1975"
+  },
+  "Another One Bites The Dust": {
+    "artist": "Queen",
+    "year": "1980"
+  },
+  "Don't Stop Me Now": {
+    "artist": "Queen",
+    "year": "1978"
+  },
+  "Somebody To Love": {
+    "artist": "Queen",
+    "year": "1976"
+  },
+  "We Will Rock You": {
+    "artist": "Queen",
+    "year": "1977"
+  },
+  "We Are The Champions": {
+    "artist": "Queen",
+    "year": "1977"
+  },
+  "I Want To Break Free": {
+    "artist": "Queen",
+    "year": "1984"
+  },
+  "I Want It All": {
+    "artist": "Queen",
+    "year": "1989"
+  },
+  "Seven Seas Of Rhye": {
+    "artist": "Queen",
+    "year": "1974"
+  },
+  "The Show Must Go On": {
+    "artist": "Queen",
+    "year": "1991"
+  },
+  "The Show Must Go On [Queen with Elton John]": {
+    "artist": "Queen & Elton John",
+    "title": "The Show Must Go On (live)"
+  },
+  "Under Pressure": {
+    "artist": "Queen & David Bowie",
+    "year": "1981"
+  },
+  "Under Pressure (Rah Mix) [Queen with David Bowie]": {
+    "artist": "Queen & David Bowie",
+    "title": "Under Pressure (Rah Mix)",
+    "year": "1999"
+  },
+  "Watch That Man": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Young Americans": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Aladdin Sane": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Win": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Drive In Saturday": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Fascination": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Moonage Daydream": {
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  "Panic In Detroit": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Right": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Starman": {
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  "Somebody Up There Likes Me": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Across The Universe": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Fame": {
+    "artist": "David Bowie",
+    "year": "1975"
+  },
+  "Hang Onto Yourself": {
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  "Let's Spend The Night Together": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "The Jean Genie": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Ziggy Stardust": {
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  "Lady Grinning Soul": {
+    "artist": "David Bowie",
+    "year": "1973"
+  },
+  "Suffragette City": {
+    "artist": "David Bowie",
+    "year": "1972"
+  },
+  "Stayin' Alive": {
+    "artist": "Bee Gees",
+    "year": "1977"
+  },
+  "How Deep Is Your Love": {
+    "artist": "Bee Gees",
+    "year": "1977"
+  },
+  "Night Fever": {
+    "artist": "Bee Gees",
+    "year": "1977"
+  },
+  "Jive Talkin'": {
+    "artist": "Bee Gees",
+    "year": "1975"
+  },
+  "You Should Be Dancing": {
+    "artist": "Bee Gees",
+    "year": "1976"
+  },
+  "Nights On Broadway": {
+    "artist": "Bee Gees",
+    "year": "1975"
+  },
+  "Love You Inside Out": {
+    "artist": "Bee Gees",
+    "year": "1979"
+  },
+  "You Win Again": {
+    "artist": "Bee Gees",
+    "year": "1987"
+  },
+  "More Than A Woman (From ''Saturday Night Fever'' Soundtrack)": {
+    "artist": "Bee Gees",
+    "title": "More Than A Woman",
+    "year": "1977"
+  },
+  "Enjoy Yourself": {
+    "artist": "The Jacksons",
+    "year": "1976"
+  },
+  "Blame It On The Boogie": {
+    "artist": "The Jacksons",
+    "year": "1978"
+  },
+  "Shake Your Body (Down To The Ground)": {
+    "artist": "The Jacksons",
+    "year": "1978"
+  },
+  "Don't Stop 'Til You Get Enough": {
+    "artist": "Michael Jackson",
+    "year": "1979"
+  },
+  "Rock With You": {
+    "artist": "Michael Jackson",
+    "year": "1979"
+  },
+  "The Girl Is Mine": {
+    "artist": "Michael Jackson & Paul McCartney",
+    "year": "1982"
+  },
+  "Billie Jean": {
+    "artist": "Michael Jackson",
+    "year": "1983"
+  },
+  "Beat It": {
+    "artist": "Michael Jackson",
+    "year": "1983"
+  },
+  "Thriller": {
+    "artist": "Michael Jackson",
+    "year": "1983"
+  },
+  "Bad": {
+    "artist": "Michael Jackson",
+    "year": "1987"
+  },
+  "Smooth Criminal": {
+    "artist": "Michael Jackson",
+    "year": "1988"
+  },
+  "The Way You Make Me Feel": {
+    "artist": "Michael Jackson",
+    "year": "1987"
+  },
+  "Man In The Mirror": {
+    "artist": "Michael Jackson",
+    "year": "1988"
+  },
+  "Dirty Diana": {
+    "artist": "Michael Jackson",
+    "year": "1988"
+  },
+  "Remember The Time": {
+    "artist": "Michael Jackson",
+    "year": "1992"
+  },
+  "Atomic": {
+    "artist": "Blondie",
+    "year": "1979"
+  },
+  "Call Me": {
+    "artist": "Blondie",
+    "year": "1980"
+  },
+  "Heart Of Glass": {
+    "artist": "Blondie",
+    "year": "1978"
+  },
+  "One Way Or Another": {
+    "artist": "Blondie",
+    "year": "1978"
+  },
+  "One More Time": {
+    "artist": "Daft Punk",
+    "year": "2000"
+  },
+  "Harder, Better, Faster, Stronger": {
+    "artist": "Daft Punk",
+    "year": "2001"
+  },
+  "Get Lucky": {
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "year": "2013"
+  },
+  "Gypsy Woman (She's Homeless) (Basement Boy 'Strip To The Bone' Mix)": {
+    "artist": "Crystal Waters",
+    "year": "1991"
+  },
+  "Ms. Jackson": {
+    "artist": "OutKast",
+    "year": "2000"
+  },
+  "Hey Ya!": {
+    "artist": "OutKast",
+    "year": "2003"
+  },
+  "The Way You Move": {
+    "artist": "OutKast",
+    "year": "2003"
+  },
+  "So Fresh, So Clean": {
+    "artist": "OutKast",
+    "year": "2000"
+  },
+  "Can't Hold Us (feat. Ray Dalton)": {
+    "artist": "Macklemore & Ryan Lewis",
+    "year": "2012"
+  },
+  "Dreams": {
+    "artist": "Fleetwood Mac",
+    "year": "1977"
+  },
+  "Suit & Tie": {
+    "artist": "Justin Timberlake feat. Jay-Z",
+    "year": "2013"
+  },
+  "EARFQUAKE": {
+    "artist": "Tyler, the Creator",
+    "year": "2019"
+  },
+  "BIRDS OF A FEATHER": {
+    "artist": "Billie Eilish",
+    "year": "2024"
+  },
+  "She (Feat Frank Ocean)": {
+    "artist": "Tyler, the Creator feat. Frank Ocean",
+    "title": "She",
+    "year": "2011"
+  },
+  "WUSYANAME": {
+    "artist": "Tyler, the Creator",
+    "year": "2021"
+  },
+  "American Boy (feat. Kanye West)": {
+    "artist": "Estelle feat. Kanye West",
+    "title": "American Boy",
+    "year": "2008"
+  },
+  "Lost": {
+    "artist": "Frank Ocean",
+    "year": "2012"
+  },
+  "Alabina Original 1996": {
+    "artist": "Alabina",
+    "title": "Alabina",
+    "year": "1996"
+  },
+  "Bob Sinclar World Hold On FISHER Rework": {
+    "artist": "Bob Sinclar",
+    "title": "World, Hold On (FISHER Rework)",
+    "year": "2024"
+  },
+  "Charli XCX 1999": {
+    "artist": "Charli XCX & Troye Sivan",
+    "title": "1999",
+    "year": "2018"
+  },
+  "Charli XCX 365": {
+    "artist": "Charli XCX",
+    "title": "365",
+    "year": "2024"
+  },
+  "Charli XCX Club Classics": {
+    "artist": "Charli XCX",
+    "title": "Club classics",
+    "year": "2024"
+  },
+  "Charli XCX Vroom Vroom": {
+    "artist": "Charli XCX",
+    "title": "Vroom Vroom",
+    "year": "2016"
+  },
+  "Cold Heart PNAU Remix by Elton John": {
+    "artist": "Elton John & Dua Lipa",
+    "title": "Cold Heart (PNAU Remix)",
+    "year": "2021"
+  },
+  "Daniel Caesar Freudian 02 Best Part": {
+    "artist": "Daniel Caesar feat. H.E.R.",
+    "title": "Best Part",
+    "year": "2017"
+  },
+  "David Guetta Titanium feat Sia": {
+    "artist": "David Guetta feat. Sia",
+    "title": "Titanium",
+    "year": "2011"
+  },
+  "Frank Ocean Blonde 09 Nights": {
+    "artist": "Frank Ocean",
+    "title": "Nights",
+    "year": "2016"
+  },
+  "Fred again. ten days 02 adore u": {
+    "artist": "Fred again..",
+    "title": "adore u",
+    "year": "2024"
+  },
+  "Fred again. ten days 04 ten": {
+    "artist": "Fred again..",
+    "title": "ten",
+    "year": "2024"
+  },
+  "Last Night a DJ Saved My Life Edit": {
+    "artist": "Indeep",
+    "title": "Last Night a DJ Saved My Life (edit)"
+  },
+  "Peggy Gou It Goes Like Nanana Edit": {
+    "artist": "Peggy Gou",
+    "title": "(It Goes Like) Nanana (edit)",
+    "year": "2023"
+  },
+  "Shocking Blue Venus": {
+    "artist": "Shocking Blue",
+    "title": "Venus",
+    "year": "1969"
+  },
+  "Nobody's Perfect": {
+    "artist": "Hannah Montana",
+    "year": "2007"
+  },
+  "Bananza (Belly Dancer)": {
+    "artist": "Akon",
+    "year": "2004"
+  },
+  "My Name Is": {
+    "artist": "Eminem",
+    "year": "1999"
+  },
+  "The Real Slim Shady": {
+    "artist": "Eminem",
+    "year": "2000"
+  },
+  "Lose Yourself": {
+    "artist": "Eminem",
+    "year": "2002"
+  },
+  "Just Lose It": {
+    "artist": "Eminem",
+    "year": "2004"
+  },
+  "Candy Shop (Feat. Olivia)": {
+    "artist": "50 Cent feat. Olivia",
+    "title": "Candy Shop",
+    "year": "2005"
+  },
+  "P.I.M.P": {
+    "artist": "50 Cent",
+    "year": "2003"
+  },
+  "Hate It Or Love It (G-Unit Remix) [feat. The Game & Tony Yayo & Young Buck & Lloyd Banks] [Explicit]": {
+    "artist": "The Game & 50 Cent",
+    "title": "Hate It Or Love It (G-Unit Remix)",
+    "year": "2005"
+  },
+  "DJ Got Us Fallin' In Love": {
+    "artist": "Usher feat. Pitbull",
+    "year": "2010"
+  },
+  "FarEastMovementFt.TheCataracsDev-LikeAG6": {
+    "artist": "Far East Movement feat. The Cataracs & Dev",
+    "title": "Like A G6",
+    "year": "2010"
+  },
+  "Love in This Club": {
+    "artist": "Usher feat. Young Jeezy",
+    "year": "2008"
+  },
+  "Yeah!": {
+    "artist": "Usher feat. Lil Jon & Ludacris",
+    "year": "2004"
+  },
+  "Ariana Grande Break Free": {
+    "artist": "Ariana Grande feat. Zedd",
+    "title": "Break Free",
+    "year": "2014"
+  },
+  "Elton John Hold Me Closer": {
+    "artist": "Elton John & Britney Spears",
+    "title": "Hold Me Closer",
+    "year": "2022"
+  },
+  "Foreigner I Want to Know What Love Is": {
+    "artist": "Foreigner",
+    "title": "I Want to Know What Love Is",
+    "year": "1984"
+  },
+  "I Will Survive Eric Kupper Mix": {
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive (Eric Kupper Mix)"
+  },
+  "Jennifer Lopez Let's Get Loud": {
+    "artist": "Jennifer Lopez",
+    "title": "Let's Get Loud",
+    "year": "1999"
+  },
+  "Katy Perry Walking On Air": {
+    "artist": "Katy Perry",
+    "title": "Walking On Air",
+    "year": "2013"
+  },
+  "Lady Gaga Rain On Me": {
+    "artist": "Lady Gaga & Ariana Grande",
+    "title": "Rain On Me",
+    "year": "2020"
+  },
+  "Rihanna We Found Love": {
+    "artist": "Rihanna feat. Calvin Harris",
+    "title": "We Found Love",
+    "year": "2011"
+  },
+  "Shakira Hips Don't Lie": {
+    "artist": "Shakira feat. Wyclef Jean",
+    "title": "Hips Don't Lie",
+    "year": "2006"
+  },
+  "WAP Cardi B feat Megan Thee Stallion": {
+    "artist": "Cardi B feat. Megan Thee Stallion",
+    "title": "WAP",
+    "year": "2020"
+  },
+  "Jamie Jones My Paradise Extended Mix": {
+    "artist": "Jamie Jones",
+    "title": "My Paradise (Extended Mix)"
+  },
+  "Joy Orbison Flight FM": {
+    "artist": "Joy Orbison",
+    "title": "Flight FM",
+    "year": "2024"
+  },
+  "Nancy Ajram Enta Eih Remake": {
+    "artist": "Nancy Ajram",
+    "title": "Enta Eih (remake)"
+  },
+  "Shabjdeed Al Nather Rad Saree3": {
+    "artist": "Shabjdeed & Al Nather",
+    "title": "Rad Saree3"
+  },
+  "Shabjdeed Al Nather Wlad Quds": {
+    "artist": "Shabjdeed & Al Nather",
+    "title": "Wlad Quds"
+  },
+  "Yasmin Hamdan Hon w Honak Acid Arab Dub Remix": {
+    "artist": "Yasmine Hamdan",
+    "title": "Hon w Honak (Acid Arab Dub Remix)"
+  },
+  "El Rass Lm2ass": {
+    "artist": "El Rass",
+    "title": "Lm2ass"
+  },
+  "El Rass Vodka and Cerelac": {
+    "artist": "El Rass",
+    "title": "Vodka and Cerelac"
+  },
+  "Daboor Inn": {
+    "artist": "Daboor",
+    "title": "INN"
+  },
+  "DJ Habibeats Miami Mijwiz": {
+    "artist": "DJ Habibeats",
+    "title": "Miami Mijwiz"
+  },
+  "DJ Rony MAJWAZZ": {
+    "artist": "DJ Rony",
+    "title": "MAJWAZZ"
+  },
+  "Baalti Buttons": {
+    "artist": "Baalti",
+    "title": "Buttons"
+  },
+  "Baalti Farsight Remix": {
+    "artist": "Baalti",
+    "title": "Farsight (Remix)"
+  },
+  "Baalti Nans": {
+    "artist": "Baalti",
+    "title": "Nans"
+  },
+  "Baalti Tere Bina": {
+    "artist": "Baalti",
+    "title": "Tere Bina"
+  },
+  "Venbee Over You Extended": {
+    "artist": "venbee",
+    "title": "Over You (Extended)"
+  },
+  "Shkoon Souf Extended Mix": {
+    "artist": "Shkoon",
+    "title": "Souf (Extended Mix)"
+  },
+  "I Know Why SAULT Edit": {
+    "artist": "SAULT",
+    "title": "I Know Why (edit)"
+  },
+  "Muqabala Muqabala": {
+    "artist": "A.R. Rahman",
+    "title": "Mukkabla",
+    "year": "1994"
+  },
+  "Sheila Ki Jawani": {
+    "artist": "Sunidhi Chauhan & Vishal Dadlani",
+    "year": "2010"
+  },
+  "Jiya Re": {
+    "artist": "Neeti Mohan",
+    "year": "2012"
+  },
+  "Sadi Gali": {
+    "artist": "Lehmber Hussainpuri",
+    "year": "2011"
+  },
+  "Taal Se Taal Mila @ SongsDL.com": {
+    "artist": "A.R. Rahman",
+    "title": "Taal Se Taal Mila",
+    "year": "1999"
+  },
+  "Nagada Nagada (From  Jab We Met )": {
+    "artist": "Sonu Nigam & Javed Ali",
+    "title": "Nagada Nagada (Jab We Met)",
+    "year": "2007"
+  },
+  "Sooraj Dooba Hain": {
+    "artist": "Arijit Singh",
+    "year": "2015"
+  },
+  "Badtameez Dil": {
+    "artist": "Benny Dayal",
+    "year": "2013"
+  },
+  "Shut Up & Bounce": {
+    "artist": "Sunidhi Chauhan",
+    "year": "2008"
+  },
+  "Chikni Chameli": {
+    "artist": "Shreya Ghoshal",
+    "year": "2012"
+  },
+  "Cloonee Tripasia": {
+    "artist": "Cloonee",
+    "title": "Tripasia"
+  },
+  "DJ Snake Guddi Riddim": {
+    "artist": "DJ Snake",
+    "title": "Guddi Riddim",
+    "year": "2023"
+  },
+  "Dilliwaali Girlfriend": {
+    "artist": "Arijit Singh & Sunidhi Chauhan",
+    "year": "2013"
+  },
+  "Dola re Dola": {
+    "artist": "Shreya Ghoshal & Kavita Krishnamurthy",
+    "title": "Dola Re Dola",
+    "year": "2002"
+  },
+  "Fevicol Se": {
+    "artist": "Mamta Sharma",
+    "year": "2012"
+  },
+  "Himesh Reshammiya Khiladi 786 05 Hookah Bar": {
+    "artist": "Himesh Reshammiya",
+    "title": "Hookah Bar",
+    "year": "2012"
+  },
+  "Himesh Reshammiya Khiladi 786 09 Hookah Bar (remix)": {
+    "artist": "Himesh Reshammiya",
+    "title": "Hookah Bar (remix)",
+    "year": "2012"
+  },
+  "Karan Aujla Ikky Softly FROZT UKG Flip": {
+    "artist": "Karan Aujla & Ikky",
+    "title": "Softly (FROZT UKG Flip)"
+  },
+  "Tiësto Softly Remix": {
+    "artist": "Karan Aujla",
+    "title": "Softly (Tiësto Remix)"
+  },
+  "Sabri Sisters Maghron La": {
+    "artist": "Sabri Sisters",
+    "title": "Maghron La"
+  },
+  "Bad Bunny Tití Me Preguntó": {
+    "artist": "Bad Bunny",
+    "title": "Tití Me Preguntó",
+    "year": "2022"
+  },
+  "La Bebe (Guille Silvers Mambo Remix)": {
+    "artist": "Yng Lvcas"
+  },
+  "La Mamá de la Mamá": {
+    "artist": "El Alfa",
+    "year": "2021"
+  },
+  "Titi Me Pregunto": {
+    "artist": "Bad Bunny",
+    "title": "Tití Me Preguntó",
+    "year": "2022"
+  },
+  "VOY A LLeVARTE PA PR": {
+    "artist": "Bad Bunny",
+    "year": "2025"
+  },
+  "PERFuMITO NUEVO": {
+    "artist": "Bad Bunny & RaiNao",
+    "year": "2025"
+  },
+  "Dile Que Tu Me Quieres": {
+    "artist": "Ozuna",
+    "year": "2016"
+  },
+  "Pa Que Retozen": {
+    "artist": "Tego Calderón",
+    "year": "2003"
+  },
+  "Yo Perreo Sola": {
+    "artist": "Bad Bunny",
+    "year": "2020"
+  },
+  "VeLDÁ": {
+    "artist": "Bad Bunny, Omar Courtz & Dei V",
+    "year": "2025"
+  },
+  "EL CLúB": {
+    "artist": "Bad Bunny",
+    "year": "2025"
+  },
+  "La Romana": {
+    "artist": "Bad Bunny feat. El Alfa",
+    "year": "2018"
+  },
+  "Gasolina": {
+    "artist": "Daddy Yankee",
+    "year": "2004"
+  },
+  "EoO": {
+    "artist": "Bad Bunny",
+    "year": "2025"
+  },
+  "Quiero bailar": {
+    "artist": "Ivy Queen",
+    "title": "Quiero Bailar",
+    "year": "2003"
+  },
+  "Asereje (Original Mix)": {
+    "artist": "Las Ketchup",
+    "title": "Aserejé",
+    "year": "2002"
+  },
+  "Lo Que Paso, Paso": {
+    "artist": "Daddy Yankee",
+    "year": "2004"
+  },
+  "chris stussy-what are you waiting for (sunrise mix)-15905890": {
+    "artist": "Chris Stussy",
+    "title": "What Are You Waiting For (Sunrise Mix)"
+  },
+  "shonky-arena": {
+    "artist": "Shonky",
+    "title": "Arena"
+  },
+  "Space Bunny – The Key (Wubbledub Edit)": {
+    "artist": "Space Bunny",
+    "title": "The Key (Wubbledub Edit)"
+  },
+  "Oppidan Untitled Sines": {
+    "artist": "Oppidan",
+    "title": "Untitled Sines"
+  },
+  "Crazibiza Fresh Poolside Edit 2": {
+    "artist": "Crazibiza",
+    "title": "Fresh (Poolside Edit)"
+  },
+  "Manuel De La Mare Angra": {
+    "artist": "Manuel De La Mare",
+    "title": "Angra"
+  },
+  "GROSSOMODDO 1001 Nuits Radio Edit": {
+    "artist": "GROSSOMODDO",
+    "title": "1001 Nuits (Radio Edit)"
+  },
+  "Nuits Radio Edit by Grossomoddo": {
+    "artist": "GROSSOMODDO",
+    "title": "1001 Nuits (Radio Edit)"
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "slug": "arab-house",
+  "name": "Arab House",
+  "source": "m3u",
+  "track_count": 63,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "Rose Caviar",
+      "title": "Beba",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 Rose Caviar - Beba.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "GROSSOMODDO",
+      "title": "1001 Nuits (Radio Edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "1001 Nuits Radio Edit by Grossomoddo.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Ah Ya Albi Edit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ah Ya Albi Edit (1).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Alabina",
+      "title": "Alabina",
+      "album": null,
+      "year": "1996",
+      "duration_sec": null,
+      "source_file": "Alabina Original 1996.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Allah Allah Ya Baba",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Allah Allah Ya Baba.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shabjdeed",
+      "title": "Amrikkka",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Amrikkka by Shabjdeed.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Ayami Bik Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ayami Bik Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Baalti",
+      "title": "Buttons",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Baalti - Buttons.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Baalti",
+      "title": "Farsight (Remix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Baalti Farsight Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Lilyass",
+      "title": "Batwanes",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Batwanes by Lilyass.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Caramela Sexy Lady",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Caramela Sexy Lady.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Kawtar Sadik",
+      "title": "Chabakrou",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Chabakrou by Kawtar Sadik.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Champion",
+      "title": "Talk To Me",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Champion - Talk To Me.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Habibeats El Sawareekh",
+      "title": "Ala Meen",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Habibeats El Sawareekh - Ala Meen.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Habibeats Felukah",
+      "title": "Hayati",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Habibeats Felukah - Hayati.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Habibeats",
+      "title": "Miami Mijwiz",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Habibeats Miami Mijwiz.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Rony",
+      "title": "Asmar",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Rony - Asmar (1).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Rony",
+      "title": "Hikayat",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Rony - Hikayat.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Rony",
+      "title": "MAJWAZZ",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Rony MAJWAZZ.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daboor",
+      "title": "INN",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Daboor Inn.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daloona",
+      "title": "Saint Levant, 47SOUL, Shadi Alborini, Qasem AlNajjar",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Daloona - Saint Levant, 47SOUL, Shadi Alborini, Qasem AlNajjar.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tayllor",
+      "title": "Dangalua Extended Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Dangalua Extended Mix by Tayllor.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "El Rass",
+      "title": "Dodo",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "El Rass - Dodo.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "El Rass",
+      "title": "Lm2ass",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "El Rass Lm2ass.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "El Rass",
+      "title": "Vodka and Cerelac",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "El Rass Vodka and Cerelac.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "El Tannoura Radio Edit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "El Tannoura Radio Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "El Youm El Helw Dah",
+      "title": "Mili, DJ Habibeats, Ahmed Saad",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "El Youm El Helw Dah - Mili, DJ Habibeats, Ahmed Saad.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Hebb Lubnan Edit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Hebb Lubnan Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "I Can't Take No More",
+      "title": "Tita Lau",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "I Can't Take No More - Tita Lau.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "SAULT",
+      "title": "I Know Why (edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "I Know Why SAULT Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ilkay Sencan",
+      "title": "Saskin",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ilkay Sencan - Saskin.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Lag",
+      "title": "Iza Ngamandla",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Iza Ngamandla by DJ Lag.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Jamie Jones",
+      "title": "My Paradise (Extended Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Jamie Jones My Paradise Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "Flight FM",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Joy Orbison Flight FM.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Kalamantina",
+      "title": "كلمنتينا",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Kalamantina - كلمنتينا.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Kazdoura Kice Al Ain Extended Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Kazdoura Kice Al Ain Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Indeep",
+      "title": "Last Night a DJ Saved My Life (edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Last Night a DJ Saved My Life Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Darmon",
+      "title": "Lila",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Lila by Darmon.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Lose My Head",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Lose My Head.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Lose My Mind Acid Arab Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Lose My Mind Acid Arab Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Mafeesh Mostaheel feat. Abd El Basset Hamouda",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Mafeesh Mostaheel feat. Abd El Basset Hamouda.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Majnuna Extended Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Majnuna Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Monique Bingham",
+      "title": "Deep in the Bottom of Africa",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Monique Bingham - Deep in the Bottom of Africa.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Nancy Ajram",
+      "title": "Enta Eih (remake)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Nancy Ajram Enta Eih Remake.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Amr Diab",
+      "title": "Nour El Ein Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Nour El Ein Remix by Amr Diab.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ramadan Mohamed",
+      "title": "Rayheen Nesshar - Bum Bum",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ramadan Mohamed - Rayheen Nesshar - Bum Bum.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shabjdeed Al Nather",
+      "title": "Mantika",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shabjdeed Al Nather - Mantika.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shabjdeed Al Nather",
+      "title": "Mtaktak",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shabjdeed Al Nather - Mtaktak.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shabjdeed & Al Nather",
+      "title": "Rad Saree3",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shabjdeed Al Nather Rad Saree3.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shabjdeed & Al Nather",
+      "title": "Wlad Quds",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shabjdeed Al Nather Wlad Quds.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Shava Shava",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shava Shava.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shkoon",
+      "title": "Souf (Extended Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shkoon Souf Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Shoft Alhala Radio Edit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Shoft Alhala Radio Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Souf Imad Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Souf Imad Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "U Must Try Extended Mix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "U Must Try Extended Mix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "venbee",
+      "title": "Over You (Extended)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Venbee Over You Extended.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Kawtar Sadik",
+      "title": "Waidalal Ankhoï Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Waidalal Ankhoï Remix by Kawtar Sadik.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Jack Marlow",
+      "title": "Who Do U",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Who Do U by Jack Marlow.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ya Chaba Extended Mix",
+      "title": "Rose Caviar",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ya Chaba Extended Mix - Rose Caviar.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ya Man Hawah",
+      "title": "Shaf",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ya Man Hawah - Shaf (1).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Ya Tabtab Baile Funk Edit",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Ya Tabtab Baile Funk Edit.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Yabibi Edit",
+      "title": "GABRI & SILVE",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Yabibi Edit - GABRI & SILVE.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Yasmine Hamdan",
+      "title": "Hon w Honak (Acid Arab Dub Remix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Yasmin Hamdan Hon w Honak Acid Arab Dub Remix.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

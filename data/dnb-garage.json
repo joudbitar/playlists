@@ -1,0 +1,139 @@
+{
+  "slug": "dnb-garage",
+  "name": "DnB / Garage",
+  "source": "m3u",
+  "track_count": 13,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": null,
+      "title": "A Little Closer Oppidan Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "A Little Closer Oppidan Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Big Fi Dem",
+      "title": "Cesco",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Big Fi Dem - Cesco.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Bogeyman",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Bogeyman by Sammy Virji.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "I Guess We're Not The Same",
+      "title": "Sammy Virji",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "I Guess We're Not The Same - Sammy Virji.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "Flight FM",
+      "album": null,
+      "year": "2024",
+      "duration_sec": null,
+      "source_file": "Joy Orbison Flight FM.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Mr. Sandman",
+      "title": "Oppidan",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Mr. Sandman - Oppidan.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Oppidan",
+      "title": "Fresh and New",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Oppidan - Fresh and New (1).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Oppidan",
+      "title": "Untitled Sines",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Oppidan Untitled Sines.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Shella Verse",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Sammy Virji - Shella Verse.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "venbee",
+      "title": "Over You (Extended)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Venbee Over You Extended.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Wake and Break",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Wake and Break.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Wheres My Vape",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Wheres My Vape.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "You & I",
+      "title": "Oppidan",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "You & I - Oppidan.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

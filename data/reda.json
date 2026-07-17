@@ -1,0 +1,489 @@
+{
+  "slug": "reda",
+  "name": "Reda",
+  "source": "m3u",
+  "track_count": 48,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": "Gene On Earth",
+      "title": "The Holey Roller-electrobuzz.net",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "00-Gene On Earth - The Holey Roller-electrobuzz.net.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Giraffi Dog",
+      "title": "351 Nation",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 - Giraffi Dog - 351 Nation.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Recenter Yourself (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 - Recenter Yourself (Original Mix).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Somefunkydrum",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 Somefunkydrum.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Guy Contact",
+      "title": "Ultraviolet Freqs",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "02 - Guy Contact - Ultraviolet Freqs.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Chris Stussy",
+      "title": "What Are You Waiting For (Sunrise Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "02-chris_stussy-what_are_you_waiting_for_(sunrise_mix)-15905890 copy.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Mr. Barth In The Sahara",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03 - Mr. Barth In The Sahara.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Plains of Neptune",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03 Plains of Neptune.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Shonky",
+      "title": "Arena",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "03-shonky-arena.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Pinseeker",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04 Pinseeker.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Stolen Tears",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "04 Stolen Tears.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Silverlining",
+      "title": "▛ □ Observa",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05 - Silverlining - ▛ □ Observa.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "BHDD (Brown House Double Decker)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05 BHDD (Brown House Double Decker).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cousin",
+      "title": "Citta",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05 Cousin - Citta.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "superspace der assistent maurice summen-all is one (in superspace)-cb362dc2",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05-superspace_der_assistent_maurice_summen-all_is_one_(in_superspace)-cb362dc2.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Samuel Jabba",
+      "title": "LSD Experience",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05. Samuel Jabba - LSD Experience.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Sweely",
+      "title": "Shut up and Stay home",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "05. Sweely - Shut up and Stay home.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "About4",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "06_About4.m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gene On Earth",
+      "title": "Chuggy Elements (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "07 - Gene On Earth - Chuggy Elements (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Boddika & Joy Orbison",
+      "title": "Swims",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08. Boddika & Joy Orbison - Swims.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Paranoid London, Josh Caffe",
+      "title": "Talk Dirty",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "20 - Paranoid London, Josh Caffe - Talk Dirty.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Blink",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "3. Blink.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "A1. Harry Wills",
+      "title": "Sarky",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "A1. Harry Wills - Sarky.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Abdul Raeva",
+      "title": "Karima's Duff Duff (Original Mix) [Physical Education]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Abdul Raeva - Karima's Duff Duff (Original Mix) [Physical Education].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Adr (UK)",
+      "title": "Daft Excluder (Orig. Mix) (Clean) 4A 130",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Adr (UK) - Daft Excluder (Orig. Mix) (Clean) 4A 130.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Aline Umber",
+      "title": "A1 Bazen Ft Songül VINYL ONLY  [Aline Brooklyn]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Aline Umber - A1 Bazen Ft Songül VINYL ONLY  [Aline Brooklyn].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Breezy S",
+      "title": "Dig In 97 (Original Mix) [Liquid Palms]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Breezy S - Dig In 97 (Original Mix) [Liquid Palms].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Brunello, Connan",
+      "title": "The Clown's Corridor (Original Mix) 127",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Brunello, Connan - The Clown's Corridor (Original Mix) 127.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Carlo",
+      "title": "Mediterraneo (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Carlo - Mediterraneo (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Chicken Lips",
+      "title": "Do It Proper",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Chicken Lips - Do It Proper.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cignol",
+      "title": "Modularity",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Cignol - Modularity.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cosmjn",
+      "title": "Butterfly Drop",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Cosmjn - Butterfly Drop.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "DJ Immortal",
+      "title": "Vitamin [ATTSPIN002]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "DJ Immortal - Vitamin [ATTSPIN002].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Die Dämmerung von Nanotech",
+      "title": "Der Zyklus  - Electro",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Die Dämmerung von Nanotech - Der Zyklus  - Electro.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Emi Ömar",
+      "title": "Grrrr",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Emi Ömar - Grrrr.aiff",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gene On Earth",
+      "title": "Turbo Island",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Gene On Earth - Turbo Island.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Guy Contact",
+      "title": "Euphoria Simulator (Original Mix) [Haŵs]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Guy Contact - Euphoria Simulator (Original Mix) [Haŵs].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Guy Contact",
+      "title": "Whip Crack Cowboy (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Guy Contact - Whip Crack Cowboy (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Make A Dance",
+      "title": "Acid Cult (Piano Power Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Make A Dance - Acid Cult (Piano Power Mix) .mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Marcu Rares",
+      "title": "Flamingo Around",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Marcu Rares - Flamingo Around.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Maurice Fulton",
+      "title": "Where's Jason's K [REAL 128]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Maurice Fulton - Where's Jason's K [REAL 128].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Munir Nadir",
+      "title": "It's Time To Kick Ass [OTP04]",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Munir Nadir - It's Time To Kick Ass [OTP04].mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "REBRN",
+      "title": "KOKA (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "REBRN - KOKA (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Reflex Blue",
+      "title": "Operation Frost (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Reflex Blue - Operation Frost (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Space Bunny",
+      "title": "The Key (Wubbledub Edit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Space Bunny – The Key (Wubbledub Edit).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Stacie Fields",
+      "title": "Mi Scusi (Extended Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Stacie Fields - Mi Scusi (Extended Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "B1 - Chicos, Chicas",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Unknown Artist - B1 - Chicos, Chicas.aiff",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Z@p",
+      "title": "Tracid",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Z@p - Tracid.mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}

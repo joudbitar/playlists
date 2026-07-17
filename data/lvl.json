@@ -1,0 +1,359 @@
+{
+  "slug": "lvl",
+  "name": "LVL",
+  "source": "m3u",
+  "track_count": 35,
+  "total_duration_sec": 0,
+  "tracks": [
+    {
+      "artist": null,
+      "title": "Baiana (Extended Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 Baiana (Extended Mix).m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "HAY LUPITA",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 HAY LUPITA.m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Yng Lvcas",
+      "title": "La Bebe (Guille Silvers Mambo Remix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 La Bebe (Guille Silvers Mambo Remix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "La Mamá de la Mamá",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "01 La Mamá de la Mamá.m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Tití Me Preguntó",
+      "album": null,
+      "year": "2022",
+      "duration_sec": null,
+      "source_file": "01 Titi Me Pregunto.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ivy Queen",
+      "title": "Yo Quiero Bailar",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "013 - Ivy Queen - Yo Quiero Bailar.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Plan B",
+      "title": "Guatauba",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "016 - Plan B - Guatauba.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "VOY A LLeVARTE PA PR",
+      "album": null,
+      "year": "2025",
+      "duration_sec": null,
+      "source_file": "02 VOY A LLeVARTE PA PR.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny & RaiNao",
+      "title": "PERFuMITO NUEVO",
+      "album": null,
+      "year": "2025",
+      "duration_sec": null,
+      "source_file": "04 PERFuMITO NUEVO.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ozuna",
+      "title": "Dile Que Tu Me Quieres",
+      "album": null,
+      "year": "2016",
+      "duration_sec": null,
+      "source_file": "05 - Dile Que Tu Me Quieres.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Tego Calderón",
+      "title": "Pa Que Retozen",
+      "album": null,
+      "year": "2003",
+      "duration_sec": null,
+      "source_file": "05 Pa Que Retozen.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Yo Perreo Sola",
+      "album": null,
+      "year": "2020",
+      "duration_sec": null,
+      "source_file": "05. Yo Perreo Sola.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "VeLDÁ",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "06 VeLDÁ.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "El Alfa",
+      "title": "4K",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "0658 - El Alfa - 4K.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Gyal, Tokischa & Young Miko",
+      "title": "Chulo (Pt.2)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "07 - Bad Gyal, Tokischa & Young Miko - Chulo (Pt.2).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "EL CLúB",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "07 EL CLúB.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "la reina de la pista",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "07 la reina de la pista.m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": null,
+      "title": "Chu Chu Pamela",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "08 - Chu Chu Pamela.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny feat. El Alfa",
+      "title": "La Romana",
+      "album": null,
+      "year": "2018",
+      "duration_sec": null,
+      "source_file": "11 La Romana.m4a",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
+      "album": null,
+      "year": "2004",
+      "duration_sec": null,
+      "source_file": "11. Gasolina.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "EoO",
+      "album": null,
+      "year": "2025",
+      "duration_sec": null,
+      "source_file": "15. EoO.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Zion & Lennox",
+      "title": "Yo Voy",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "165. Zion & Lennox - Yo Voy.flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Ivy Queen",
+      "title": "Quiero Bailar",
+      "album": null,
+      "year": "2003",
+      "duration_sec": null,
+      "source_file": "22 - Quiero bailar.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Quevedo",
+      "title": "Columbia",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "439 - Quevedo - Columbia.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Las Ketchup",
+      "title": "Aserejé",
+      "album": null,
+      "year": "2002",
+      "duration_sec": null,
+      "source_file": "Asereje (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Azul Azul & Mr. Pauer",
+      "title": "La Bomba (Mr. Pauer Remix Original)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Azul Azul & Mr. Pauer - La Bomba (Mr. Pauer Remix Original).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Cris Mj, Karol G, Ryan Castro",
+      "title": "Una Noche En Medellin Remix",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Cris Mj, Karol G, Ryan Castro - Una Noche En Medellin Remix.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Gordo, Blessed, Kofla",
+      "title": "Globo (ft. Blessd & Kofla) (2025)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Gordo, Blessed, Kofla - Globo (ft. Blessd & Kofla) (2025).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Hassio (COL), Jean Mueller",
+      "title": "Una Noche En Medellin (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Hassio (COL), Jean Mueller - Una Noche En Medellin (Original Mix).mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Hugel, Tom Enzy, Jdr, Josh Cross",
+      "title": "Sonidito (ft. Josh Cross) (2025)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Hugel, Tom Enzy, Jdr, Josh Cross - Sonidito (ft. Josh Cross) (2025).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Daddy Yankee",
+      "title": "Lo Que Paso, Paso",
+      "album": null,
+      "year": "2004",
+      "duration_sec": null,
+      "source_file": "Lo Que Paso, Paso.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Martina Camargo, Faul & Wad, Mëstiza",
+      "title": "Tambora (Extended Mix) (2025)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Martina Camargo, Faul & Wad, Mëstiza - Tambora (Extended Mix) (2025).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Toman",
+      "title": "Verano En NY (Original Mix)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Toman - Verano En NY (Original Mix).flac",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Yailin La Mas Viral & Puyalo Pantera",
+      "title": "Bing Bong (Clean) 134",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Yailin La Mas Viral & Puyalo Pantera - Bing Bong (Clean) 134.mp3",
+      "tagged": false,
+      "missing": false
+    },
+    {
+      "artist": "Yailin la Mas Viral Puyalo Pantera",
+      "title": "CHAPA (Explicit)",
+      "album": null,
+      "year": null,
+      "duration_sec": null,
+      "source_file": "Yailin la Mas Viral_Puyalo Pantera - CHAPA (Explicit).mp3",
+      "tagged": false,
+      "missing": false
+    }
+  ]
+}
