@@ -1,11 +1,11 @@
 # Reda
 
-> Deep, rolling minimal house. I built it for a friend, Reda, and it turned into its own set.
+> Deep, rolling minimal house — a set built for a friend.
 
-[JSON](../data/reda.json)
+**48 tracks · curated set order** · [JSON](../data/reda.json)
 
-| # | Track | Artist | BPM | |
-|--:|-------|--------|:---:|--|
+| # | Track | Artist | Year | |
+|--:|-------|--------|:----:|--|
 | 1 | The Holey Roller-electrobuzz.net | Gene On Earth | — | [YouTube](https://www.youtube.com/results?search_query=Gene+On+Earth+The+Holey+Roller-electrobuzz.net) · [Spotify](https://open.spotify.com/search/Gene%20On%20Earth%20The%20Holey%20Roller-electrobuzz.net) · [Apple](https://music.apple.com/us/search?term=Gene+On+Earth+The+Holey+Roller-electrobuzz.net) |
 | 2 | 351 Nation | Giraffi Dog | — | [YouTube](https://www.youtube.com/results?search_query=Giraffi+Dog+351+Nation) · [Spotify](https://open.spotify.com/search/Giraffi%20Dog%20351%20Nation) · [Apple](https://music.apple.com/us/search?term=Giraffi+Dog+351+Nation) |
 | 3 | Recenter Yourself (Original Mix) | — | — | [YouTube](https://www.youtube.com/results?search_query=Recenter+Yourself+%28Original+Mix%29) · [Spotify](https://open.spotify.com/search/Recenter%20Yourself%20%28Original%20Mix%29) · [Apple](https://music.apple.com/us/search?term=Recenter+Yourself+%28Original+Mix%29) |
