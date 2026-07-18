@@ -24,6 +24,22 @@ SECRETS = json.loads((ROOT / ".secrets.json").read_text())
 MAP_FILE = ROOT / "spotify_playlists.json"
 API = "https://api.spotify.com/v1"
 
+# one-sentence description per playlist, set on the Spotify playlist at create
+DESCRIPTIONS = {
+    "70s-party": "Disco, funk and glitter — a full 70s night, from ABBA and "
+                 "Bowie to the Bee Gees and Michael Jackson.",
+    "y2k-party": "2000s chart heat — Eminem, 50 Cent, Usher and low-rise-jeans pop.",
+    "gay-club-anthems": "Certified dancefloor liberation, no skips allowed.",
+    "arab-house": "Arabic vocals riding house grooves — the crossover set.",
+    "diwali-after": "The afterparty set — Bollywood and Punjabi bangers back to back.",
+    "general-pop": "The crowd-pleaser set — disco classics to Tyler to Fred again.",
+    "south-asian": "Desi party pool, wedding-tier energy start to finish.",
+    "stuff-i-like": "My personal rotation — house-leaning with Arabic accents.",
+    "dnb-garage": "UK rollers — drum and bass and garage cuts.",
+    "lvl": "Reggaeton and Latin heat, Bad Bunny-forward.",
+    "reda": "Deep, rolling minimal house — a set built for a friend.",
+}
+
 
 def refresh_access_token():
     basic = base64.b64encode(
@@ -144,7 +160,7 @@ def main():
             # /users/{id}/playlists 403s on new dev-mode apps; /me/playlists works
             created = call("POST", "/me/playlists", body={
                 "name": pl["name"], "public": True,
-                "description": "Open-sourced at github.com/joudbitar/playlists"})
+                "description": DESCRIPTIONS.get(pl["slug"], "")})
             pid = created["id"]
             mapping[pl["slug"]] = {"id": pid,
                                    "url": created["external_urls"]["spotify"]}
