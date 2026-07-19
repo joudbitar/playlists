@@ -100,9 +100,6 @@ def main():
 
     md = ["# playlists", "",
           "Every DJ set I've performed, as plain-text tracklists.", "",
-          "People kept asking for my tracklists, so here they all are. Browse a set,",
-          "take the whole thing, or pull the few tracks you were after. It's also my",
-          "own record of what I've actually played out.", "",
           f"**{len(playlists)} playlists · {total_tracks} tracks.** Every track links to",
           "YouTube, Spotify and Apple Music, and a few sets are live Spotify playlists",
           "you can hit play on.", "",
