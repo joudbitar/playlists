@@ -1,6 +1,6 @@
 # Gay Club Anthems
 
-> Straight-up dancefloor. Nothing here is a skip — this is the set for when the room just wants to let go.
+> Straight-up dancefloor. Nothing here is a skip. This is the set for when the room just wants to let go.
 
 [JSON](../data/gay-club-anthems.json)
 

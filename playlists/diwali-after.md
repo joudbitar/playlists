@@ -1,6 +1,6 @@
 # Diwali Afterparty
 
-> The afterparty set, for once the main room's done — Bollywood hooks and Punjabi bangers, loud and sweaty.
+> The afterparty set, for when the main room's done. Bollywood hooks and Punjabi bangers, loud and sweaty.
 
 [▶ Open in Spotify](https://open.spotify.com/playlist/2aNSw7t97IE5xqPXwJcyKq) · [JSON](../data/diwali-after.json)
 

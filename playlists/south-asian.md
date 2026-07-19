@@ -1,6 +1,6 @@
 # South Asian
 
-> Desi party fuel — full wedding-reception energy, the floor packed with everyone from cousins to aunties.
+> Desi party fuel. Full wedding-reception energy, the floor packed with everyone from cousins to aunties.
 
 [JSON](../data/south-asian.json)
 

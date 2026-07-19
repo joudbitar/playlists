@@ -1,6 +1,6 @@
 # Y2K Party
 
-> The 2000s the way they actually sounded on the radio and on Disney Channel — rap sitting right next to bubblegum pop, no shame. Low-rise-jeans energy.
+> The 2000s the way they actually sounded on the radio and on Disney Channel. Rap sitting right next to bubblegum pop, no shame. Low-rise-jeans energy.
 
 [JSON](../data/y2k-party.json)
 

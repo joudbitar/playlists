@@ -1,6 +1,6 @@
 # DnB / Garage
 
-> Fast UK stuff — drum & bass and garage rollers. Short set, no mercy.
+> Fast UK stuff: drum & bass and garage rollers. Short set, no mercy.
 
 [▶ Open in Spotify](https://open.spotify.com/playlist/4iE0IAFykOCuTNLlUzCpCR) · [JSON](../data/dnb-garage.json)
 
