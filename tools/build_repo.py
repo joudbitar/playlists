@@ -13,20 +13,6 @@ _map_file = REPO / "spotify_playlists.json"
 SPOTIFY = {k: v["url"] for k, v in
            (json.loads(_map_file.read_text()) if _map_file.exists() else {}).items()}
 
-BLURBS = {
-    "70s-party": "A whole 70s night played in order so it actually builds: disco into glam into the big singalong ballads. By the last track the room is shouting every word.",
-    "y2k-party": "The 2000s the way they actually sounded on the radio and on Disney Channel. Rap sitting right next to bubblegum pop, no shame. Low-rise-jeans energy.",
-    "arab-house": "Arabic vocals over house grooves. My crossover set, and the one that catches people off guard.",
-    "gay-club-anthems": "Straight-up dancefloor. Nothing here is a skip. This is the set for when the room just wants to let go.",
-    "diwali-after": "The afterparty set, for when the main room's done. Bollywood hooks and Punjabi bangers, loud and sweaty.",
-    "general-pop": "My most all-over-the-place set (I played it once as \"Festival of Nations\"): disco to Tyler to Fred again, and it somehow holds a mixed crowd. My safe bet.",
-    "south-asian": "Desi party fuel. Full wedding-reception energy, the floor packed with everyone from cousins to aunties.",
-    "dnb-garage": "Fast UK stuff: drum & bass and garage rollers. Short set, no mercy.",
-    "stuff-i-like": "No crowd to read here, just what I actually put on for myself. House-leaning, with Arabic slipping in at the edges.",
-    "lvl": "Reggaeton and Latin heat, heavy on Bad Bunny. Hips-first.",
-    "reda": "Deep, rolling minimal house. I built it for a friend, Reda, and it turned into its own set.",
-}
-
 
 def fmt_dur(sec):
     if not sec:
@@ -50,9 +36,6 @@ def esc(s):
 
 def playlist_md(pl):
     lines = [f"# {pl['name']}", ""]
-    blurb = BLURBS.get(pl["slug"])
-    if blurb:
-        lines += [f"> {blurb}", ""]
     has_dur = pl["total_duration_sec"] > 0
     tail = [f"[JSON](../data/{pl['slug']}.json)"]
     if SPOTIFY.get(pl["slug"]):
@@ -101,19 +84,24 @@ def main():
     md = ["# playlists", "",
           "Every DJ set I've performed, as plain-text tracklists.", "",
           f"**{len(playlists)} playlists · {total_tracks} tracks.** Every track links to",
-          "YouTube, Spotify and Apple Music, and a few sets are live Spotify playlists",
+          "YouTube, Spotify and Apple Music, and every set is a live Spotify playlist"
+          if n_sp == len(playlists) else
+          "YouTube, Spotify and Apple Music, and some sets are live Spotify playlists",
           "you can hit play on.", "",
-          "| Playlist | Tracks | Spotify | Vibe |",
-          "|----------|-------:|:-------:|------|"]
+          "| Playlist | Tracks | Spotify |",
+          "|----------|-------:|:-------:|"]
     for p in playlists:
-        blurb = BLURBS.get(p["slug"]) or ""
         sp = f"[▶]({SPOTIFY[p['slug']]})" if SPOTIFY.get(p["slug"]) else "—"
-        md.append(f"| [{p['name']}](playlists/{p['slug']}.md) | {p['track_count']} "
-                  f"| {sp} | {blurb} |")
+        md.append(f"| [{p['name']}](playlists/{p['slug']}.md) | {p['track_count']} | {sp} |")
     if 0 < n_sp < len(playlists):
         md += ["",
                f"*▶ = live Spotify playlist ({n_sp}/{len(playlists)} up so far; "
                "the rest are landing soon).*"]
+
+    not_live = [
+        f"- Only {n_sp} of the {len(playlists)} sets are live Spotify playlists so far. The rest are",
+        "  markdown only.",
+    ] if n_sp < len(playlists) else []
 
     md += [
         "",
@@ -139,8 +127,7 @@ def main():
         "  nothing to take down.",
         "- The per-track links are searches, not exact tracks. Usually the top hit is",
         "  right, sometimes it's a different version.",
-        f"- Only {n_sp} of the {len(playlists)} sets are live Spotify playlists so far. The rest are",
-        "  markdown only.",
+        *not_live,
         "- BPMs aren't complete, and the sets are frozen exports, not playlists I keep",
         "  updating.",
         "",

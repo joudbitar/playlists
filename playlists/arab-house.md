@@ -1,7 +1,5 @@
 # Arab House
 
-> Arabic vocals over house grooves. My crossover set, and the one that catches people off guard.
-
 [▶ Open in Spotify](https://open.spotify.com/playlist/0tyutJfPvMmWmntj2P0y9h) · [JSON](../data/arab-house.json)
 
 | # | Track | Artist | BPM | |

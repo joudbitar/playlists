@@ -1,8 +1,6 @@
 # Stuff I Like
 
-> No crowd to read here, just what I actually put on for myself. House-leaning, with Arabic slipping in at the edges.
-
-[JSON](../data/stuff-i-like.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/1XLF2woDQ1BidpRxuvHSe0) · [JSON](../data/stuff-i-like.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

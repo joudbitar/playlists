@@ -1,8 +1,6 @@
 # Reda
 
-> Deep, rolling minimal house. I built it for a friend, Reda, and it turned into its own set.
-
-[JSON](../data/reda.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/4Be1J4q6VBhMJ7STv7UcV1) · [JSON](../data/reda.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

@@ -1,8 +1,6 @@
 # South Asian
 
-> Desi party fuel. Full wedding-reception energy, the floor packed with everyone from cousins to aunties.
-
-[JSON](../data/south-asian.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/2iV5FHgacclLMNtDMkuqxh) · [JSON](../data/south-asian.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

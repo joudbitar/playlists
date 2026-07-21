@@ -1,8 +1,6 @@
 # General Pop
 
-> My most all-over-the-place set (I played it once as "Festival of Nations"): disco to Tyler to Fred again, and it somehow holds a mixed crowd. My safe bet.
-
-[JSON](../data/general-pop.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/5QZAqDH4ySNWRP1riaPxFN) · [JSON](../data/general-pop.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

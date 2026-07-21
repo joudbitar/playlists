@@ -1,8 +1,6 @@
 # Gay Club Anthems
 
-> Straight-up dancefloor. Nothing here is a skip. This is the set for when the room just wants to let go.
-
-[JSON](../data/gay-club-anthems.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/5PirVcNZFzXMaA0Z352ziN) · [JSON](../data/gay-club-anthems.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

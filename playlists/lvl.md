@@ -1,8 +1,6 @@
 # LVL
 
-> Reggaeton and Latin heat, heavy on Bad Bunny. Hips-first.
-
-[JSON](../data/lvl.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/4mnuRPT3buHZUat5BrOoAO) · [JSON](../data/lvl.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|

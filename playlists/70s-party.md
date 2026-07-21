@@ -1,7 +1,5 @@
 # 70s Party
 
-> A whole 70s night played in order so it actually builds: disco into glam into the big singalong ballads. By the last track the room is shouting every word.
-
 [▶ Open in Spotify](https://open.spotify.com/playlist/2LJHt0t8N4Vz6Lfx0CyHvw) · [JSON](../data/70s-party.json)
 
 | # | Track | Artist | BPM | |

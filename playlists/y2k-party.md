@@ -1,8 +1,6 @@
 # Y2K Party
 
-> The 2000s the way they actually sounded on the radio and on Disney Channel. Rap sitting right next to bubblegum pop, no shame. Low-rise-jeans energy.
-
-[JSON](../data/y2k-party.json)
+[▶ Open in Spotify](https://open.spotify.com/playlist/3RboKptvG0jGXOw4IkHhcB) · [JSON](../data/y2k-party.json)
 
 | # | Track | Artist | BPM | |
 |--:|-------|--------|:---:|--|
